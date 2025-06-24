@@ -5245,7 +5245,7 @@ Pricing Style1
 ***/
 .case-style1 {
     background-color: var(--thm-white);
-    padding: 120px 0px 120px;
+    padding: 50px 0px 50px;
 }
 
 .case-style1 .container {
@@ -6292,7 +6292,7 @@ Pricing Style1
 ***/
 .faq-style1 {
     background-color: var(--thm-white);
-    padding: 120px 0px 120px;
+    padding: 50px 0px 50px;
 }
 
 .faq-style1__img {

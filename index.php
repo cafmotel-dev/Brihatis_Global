@@ -9,8 +9,8 @@
     <title>Brihatis Global Edge Solution || Dedication Drives Us, Trust Defines Us</title>
     <!-- Favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/resources/title-logo.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/resources/title-logo.png" />
     <meta name="description" content="Dedication Drives Us, Trust Defines Us " />
 
     <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
@@ -117,7 +117,7 @@
                                     <li>
                                         <div class="inner">
                                             <div class="text">
-                                                <p>54B, Tailstoi Town 5238 MT,<br> La city, IA 522364</p>
+                                                <p>Ifza Properties, Dubai, Silicon Oasis</p>
                                             </div>
                                         </div>
                                     </li>
@@ -160,7 +160,7 @@
                                 </form>
                             </div>
 
-                            <div class="thm-social-link">
+                            <!-- <div class="thm-social-link">
                                 <ul class="clearfix">
                                     <li>
                                         <a href="#">
@@ -183,7 +183,7 @@
                                         </a>
                                     </li>
                                 </ul>
-                            </div>
+                            </div> -->
 
                         </div>
                     </div>
@@ -237,15 +237,15 @@
                                                 </li>
                                                 <li class="dropdown">
                                                     <a href="#">Employers</a>
-                                                    <ul>
-                                                        <li><a href="employers-overview.html">Employers Overview</a>
+                                                    <!-- <ul>
+                                                        <li><a href="about.php">Employers Overview</a>
                                                         </li>
                                                         <li>
                                                             <a href="job.html">Place Your Job</a>
                                                         </li>
                                                         <li><a href="testimonials.html">Testimonials</a></li>
                                                         <li><a href="faq.html">Faq’s</a></li>
-                                                    </ul>
+                                                    </ul> -->
                                                 </li>
                                                 <li class="dropdown">
                                                     <a href="solution.php">Solutions</a>
@@ -253,7 +253,7 @@
                                                 </li>
                                                 <li class="dropdown">
                                                     <a href="#">Job Seekers</a>
-                                                    <ul>
+                                                    <!-- <ul>
                                                         <li>
                                                             <a href="job-seekers-overview.html">Job Seekers Overview</a>
                                                         </li>
@@ -266,10 +266,10 @@
                                                         <li>
                                                             <a href="apply-now.html">Apply Now</a>
                                                         </li>
-                                                    </ul>
+                                                    </ul> -->
                                                 </li>
                                                 <li>
-                                                    <a href="contact.php">Contact</a>
+                                                    <a href="#">Contact</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -332,163 +332,165 @@
                             }
                         }'>
 
-                        <div class="swiper-wrapper">
+                     <div class="swiper-wrapper">
 
-                            <!--Start Single Swiper Slide-->
-                            <div class="swiper-slide">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-xl-12">
-                                            <div class="main-slider-content">
-                                                <div class="main-slider-content__inner">
-                                                    <div class="sec-title">
-                                                        <div class="sub-title">
-                                                            <h4>Solutions we provide</h4>
-                                                        </div>
-                                                    </div>
-                                                    <div class="big-title">
-                                                        <h2>
-                                                            Looking for the<br>best employees? We<br>have them.
-                                                        </h2>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Trouble that are bound to ensue and equal that shrinking.</p>
-                                                    </div>
-                                                    <div class="btn-box">
-                                                        <a class="btn-one" href="about.php">
-                                                            <span class="txt">
-                                                                Learn More
-                                                            </span>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+    <!--Start Single Swiper Slide-->
+    <div class="swiper-slide">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="main-slider-content">
+                        <div class="main-slider-content__inner">
+                            <div class="sec-title">
+                                <div class="sub-title">
+                                    <h4>Solutions we provide</h4>
                                 </div>
-                                <!--Start Main Slider Style2 Img Box-->
-                                <div class="main-slider-style2__img-box">
-                                    <ul class="clearfix">
-                                        <li>
-                                            <div class="single-img-box">
-                                                <img src="assets/images/slides/slide-v2-1.jpg" alt="image">
-                                            </div>
-                                        </li>
-                                        <li class="last-child">
-                                            <div class="single-img-box">
-                                                <img src="assets/images/slides/slide-v2-2.jpg" alt="image">
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <!--End Main Slider Style2 Img Box-->
                             </div>
-                            <!--End Single Swiper Slide-->
-
-                            <!--Start Single Swiper Slide-->
-                            <div class="swiper-slide">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-xl-12">
-                                            <div class="main-slider-content">
-                                                <div class="main-slider-content__inner">
-                                                    <div class="sec-title">
-                                                        <div class="sub-title">
-                                                            <h4>Solutions we provide</h4>
-                                                        </div>
-                                                    </div>
-                                                    <div class="big-title">
-                                                        <h2>
-                                                            Find the right<br> employer for you<br> to thrive.
-                                                        </h2>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Some advantage from it? But who has any right to find.</p>
-                                                    </div>
-                                                    <div class="btn-box">
-                                                        <a class="btn-one" href="about.php">
-                                                            <span class="txt">
-                                                                Learn More
-                                                            </span>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Start Main Slider Style2 Img Box-->
-                                <div class="main-slider-style2__img-box">
-                                    <ul class="clearfix">
-                                        <li>
-                                            <div class="single-img-box">
-                                                <img src="assets/images/slides/slide-v2-3.jpg" alt="image">
-                                            </div>
-                                        </li>
-                                        <li class="last-child">
-                                            <div class="single-img-box">
-                                                <img src="assets/images/slides/slide-v2-4.jpg" alt="image">
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <!--End Main Slider Style2 Img Box-->
+                            <div class="big-title">
+                                <h2>
+                                    Need skilled talent?<br> We've got you<br> covered.
+                                </h2>
                             </div>
-                            <!--End Single Swiper Slide-->
-
-                            <!--Start Single Swiper Slide-->
-                            <div class="swiper-slide">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-xl-12">
-                                            <div class="main-slider-content">
-                                                <div class="main-slider-content__inner">
-                                                    <div class="sec-title">
-                                                        <div class="sub-title">
-                                                            <h4>Solutions we provide</h4>
-                                                        </div>
-                                                    </div>
-                                                    <div class="big-title">
-                                                        <h2>
-                                                            End the search<br> for a new job, We<br> are hiring.
-                                                        </h2>
-                                                    </div>
-                                                    <div class="text">
-                                                        <p>Some advantage from it? But who has any right to find.</p>
-                                                    </div>
-                                                    <div class="btn-box">
-                                                        <a class="btn-one" href="about.php">
-                                                            <span class="txt">
-                                                                Learn More
-                                                            </span>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Start Main Slider Style2 Img Box-->
-                                <div class="main-slider-style2__img-box">
-                                    <ul class="clearfix">
-                                        <li>
-                                            <div class="single-img-box">
-                                                <img src="assets/images/slides/slide-v2-5.jpg" alt="image">
-                                            </div>
-                                        </li>
-                                        <li class="last-child">
-                                            <div class="single-img-box">
-                                                <img src="assets/images/slides/slide-v2-6.jpg" alt="image">
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <!--End Main Slider Style2 Img Box-->
+                            <div class="text">
+                                <p>We help you hire with speed, precision, and zero hassle.</p>
                             </div>
-                            <!--End Single Swiper Slide-->
+                            <div class="btn-box">
+                                <a class="btn-one" href="about.php">
+                                    <span class="txt">
+                                        Learn More
+                                    </span>
+                                </a>
+                            </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Start Main Slider Style2 Img Box-->
+        <div class="main-slider-style2__img-box">
+            <ul class="clearfix">
+                <li>
+                    <div class="single-img-box">
+                        <img src="assets/images/slides/slide-v2-1.jpg" alt="image">
+                    </div>
+                </li>
+                <li class="last-child">
+                    <div class="single-img-box">
+                        <img src="assets/images/slides/slide-v2-2.jpg" alt="image">
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <!--End Main Slider Style2 Img Box-->
+    </div>
+    <!--End Single Swiper Slide-->
 
-                        <div class="main-slider-scrooling-content">
+    <!--Start Single Swiper Slide-->
+    <div class="swiper-slide">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="main-slider-content">
+                        <div class="main-slider-content__inner">
+                            <div class="sec-title">
+                                <div class="sub-title">
+                                    <h4>Solutions we provide</h4>
+                                </div>
+                            </div>
+                            <div class="big-title">
+                                <h2>
+                                    Find the right<br> employer to help<br> you thrive.
+                                </h2>
+                            </div>
+                            <div class="text">
+                                <p>Discover job opportunities that match your skills and career goals.</p>
+                            </div>
+                            <div class="btn-box">
+                                <a class="btn-one" href="about.php">
+                                    <span class="txt">
+                                        Learn More
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Start Main Slider Style2 Img Box-->
+        <div class="main-slider-style2__img-box">
+            <ul class="clearfix">
+                <li>
+                    <div class="single-img-box">
+                        <img src="assets/images/slides/slide-v2-3.jpg" alt="image">
+                    </div>
+                </li>
+                <li class="last-child">
+                    <div class="single-img-box">
+                        <img src="assets/images/slides/slide-v2-4.jpg" alt="image">
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <!--End Main Slider Style2 Img Box-->
+    </div>
+    <!--End Single Swiper Slide-->
+
+    <!--Start Single Swiper Slide-->
+    <div class="swiper-slide">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="main-slider-content">
+                        <div class="main-slider-content__inner">
+                            <div class="sec-title">
+                                <div class="sub-title">
+                                    <h4>Solutions we provide</h4>
+                                </div>
+                            </div>
+                            <div class="big-title">
+                                <h2>
+                                    Ready for your<br> next opportunity?<br> We are hiring!
+                                </h2>
+                            </div>
+                            <div class="text">
+                                <p>Your next opportunity is just a click away. Start applying today.</p>
+                            </div>
+                            <div class="btn-box">
+                                <a class="btn-one" href="about.php">
+                                    <span class="txt">
+                                        Learn More
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Start Main Slider Style2 Img Box-->
+        <div class="main-slider-style2__img-box">
+            <ul class="clearfix">
+                <li>
+                    <div class="single-img-box">
+                        <img src="assets/images/slides/slide-v2-5.jpg" alt="image">
+                    </div>
+                </li>
+                <li class="last-child">
+                    <div class="single-img-box">
+                        <img src="assets/images/slides/slide-v2-6.jpg" alt="image">
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <!--End Main Slider Style2 Img Box-->
+    </div>
+    <!--End Single Swiper Slide-->
+
+</div>
+
+
+                        <!-- <div class="main-slider-scrooling-content">
                             <div class="container-inner">
                                 <div class="container-inner__box">
                                     <div class="inner-title">
@@ -516,7 +518,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- If we need navigation buttons -->
                         <div class="swiper-pagination" id="main-slider-pagination"></div>
@@ -570,7 +572,7 @@
                                         <img src="assets/images/resources/welcome-style1-img-2.jpg" alt="">
                                         <div class="overlay-btn">
                                             <a href="about.php">
-                                                employees
+                                                Employees
                                                 <span class="icon-right-arrow"></span>
                                             </a>
                                         </div>
@@ -769,8 +771,7 @@
                                     <h2>Delivering High<br>Impact Recruitment<br>Solutions</h2>
                                     <div class="text">
                                         <p>
-                                            Our being able to do what we like best every pleasure that<br>but in certain
-                                            circumstances.
+                                          We’re committed to connecting great companies with top-tier talent through strategic and scalable hiring services.
                                         </p>
                                     </div>
                                 </div>
@@ -797,12 +798,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="btn-box2">
-                                    <a href="about.php">
-                                        More about our Agency
-                                        <i class="icon-arrow-angle-pointing-to-right"></i>
-                                    </a>
-                                </div>
+                              
                             </div>
                         </div>
 
@@ -831,10 +827,8 @@
                                                 <h3>Philosophy</h3>
                                                 <div class="line"></div>
                                                 <p>
-                                                    Best every pleasure to welcomed<br>every pain avoided but in
-                                                    certain<br>circumstances have be repudiate <br>enjoy pleasure who
-                                                    avoids a
-                                                    pain<br>that produces no resultant.
+                                                  We believe recruitment is more than just hiring — it's about aligning the right talent with the right opportunity.
+                         Our approach focuses on trust, transparency, and tailored solutions to ensure long-term success for both employers and job seekers.
                                                 </p>
                                                 <div class="btn-box">
                                                     <a href="about.php">
@@ -868,10 +862,7 @@
                                                 <h3>Our Milestones</h3>
                                                 <div class="line"></div>
                                                 <p>
-                                                    Best every pleasure to welcomed<br>every pain avoided but in
-                                                    certain<br>circumstances have be repudiate <br>enjoy pleasure who
-                                                    avoids a
-                                                    pain<br>that produces no resultant.
+                                                   From our first successful placement to becoming a trusted recruitment partner for top employers, our milestones reflect our commitment to innovation, client satisfaction, and industry excellence.
                                                 </p>
                                                 <div class="btn-box">
                                                     <a href="about.php">
@@ -904,10 +895,8 @@
                                                 <h3>Our Statements</h3>
                                                 <div class="line"></div>
                                                 <p>
-                                                    Best every pleasure to welcomed<br>every pain avoided but in
-                                                    certain<br>circumstances have be repudiate <br>enjoy pleasure who
-                                                    avoids a
-                                                    pain<br>that produces no resultant.
+                                                    We understand the needs of both businesses and individuals.
+                                                 We evolve with the job market to offer modern hiring solutions.
                                                 </p>
                                                 <div class="btn-box">
                                                     <a href="about.php">
@@ -933,7 +922,7 @@
         <!--End About Style2-->
 
         <!--Start Case Style1-->
-        <section class="case-style1">
+        <section class="case-style1" >
             <div class="container">
                 <div class="sec-title withtext text-center">
                     <div class="sub-title">
@@ -942,7 +931,7 @@
                     <h2>Staffing Solutions in Action</h2>
                     <div class="text">
                         <p>
-                            Long established fact that a reader will be distracted by the<br>readable content of a page.
+                            Discover how Brihati Global has empowered businesses with top-tier talent and helped job seekers land rewarding careers through tailored staffing solutions.
                         </p>
                     </div>
                 </div>
@@ -979,121 +968,121 @@
                                 }
                             }'>
 
-                            <!--Start Single Case Style1-->
-                            <div class="case-style1__single">
-                                <div class="img-box">
-                                    <div class="inner">
-                                        <img src="assets/images/resources/case-v1-1.jpg" alt="image">
-                                        <div class="overlay-icon">
-                                            <a class="lightbox-image" data-fancybox="gallery"
-                                                href="assets/images/resources/case-v1-1.jpg">
-                                                <i class="icon-zoom-in"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="overlay-content">
-                                        <div class="category-box">
-                                            <p>Management</p>
-                                        </div>
-                                        <div class="title-box">
-                                            <h3><a href="case-single.html">Placements Driving Growth</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Single Case Style1-->
-                            <!--Start Single Case Style1-->
-                            <div class="case-style1__single">
-                                <div class="img-box">
-                                    <div class="inner">
-                                        <img src="assets/images/resources/case-v1-2.jpg" alt="image">
-                                        <div class="overlay-icon">
-                                            <a class="lightbox-image" data-fancybox="gallery"
-                                                href="assets/images/resources/case-v1-2.jpg">
-                                                <i class="icon-zoom-in"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="overlay-content">
-                                        <div class="category-box">
-                                            <p>Industry Focus</p>
-                                        </div>
-                                        <div class="title-box">
-                                            <h3><a href="case-single.html">Recuirtment & Selection Procedure</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Single Case Style1-->
-                            <!--Start Single Case Style1-->
-                            <div class="case-style1__single">
-                                <div class="img-box">
-                                    <div class="inner">
-                                        <img src="assets/images/resources/case-v1-3.jpg" alt="image">
-                                        <div class="overlay-icon">
-                                            <a class="lightbox-image" data-fancybox="gallery"
-                                                href="assets/images/resources/case-v1-3.jpg">
-                                                <i class="icon-zoom-in"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="overlay-content">
-                                        <div class="category-box">
-                                            <p>Recruitment</p>
-                                        </div>
-                                        <div class="title-box">
-                                            <h3><a href="case-single.html">Issues Faced by the Company</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Single Case Style1-->
-                            <!--Start Single Case Style1-->
-                            <div class="case-style1__single">
-                                <div class="img-box">
-                                    <div class="inner">
-                                        <img src="assets/images/resources/case-v1-4.jpg" alt="image">
-                                        <div class="overlay-icon">
-                                            <a class="lightbox-image" data-fancybox="gallery"
-                                                href="assets/images/resources/case-v1-4.jpg">
-                                                <i class="icon-zoom-in"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="overlay-content">
-                                        <div class="category-box">
-                                            <p>Consulting</p>
-                                        </div>
-                                        <div class="title-box">
-                                            <h3><a href="case-single.html">Recuirtment & Selection Procedure</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Single Case Style1-->
-                            <!--Start Single Case Style1-->
-                            <div class="case-style1__single">
-                                <div class="img-box">
-                                    <div class="inner">
-                                        <img src="assets/images/resources/case-v1-5.jpg" alt="image">
-                                        <div class="overlay-icon">
-                                            <a class="lightbox-image" data-fancybox="gallery"
-                                                href="assets/images/resources/case-v1-5.jpg">
-                                                <i class="icon-zoom-in"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="overlay-content">
-                                        <div class="category-box">
-                                            <p>technology</p>
-                                        </div>
-                                        <div class="title-box">
-                                            <h3><a href="case-single.html">Placements Driving Growth</a></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Single Case Style1-->
+                          <!--Start Single Case Style1-->
+<div class="case-style1__single">
+    <div class="img-box">
+        <div class="inner">
+            <img src="assets/images/resources/case-v1-1.jpg" alt="image">
+            <div class="overlay-icon">
+                <a class="lightbox-image" data-fancybox="gallery" href="assets/images/resources/case-v1-1.jpg">
+                    <i class="icon-zoom-in"></i>
+                </a>
+            </div>
+        </div>
+        <div class="overlay-content">
+            <div class="category-box">
+                <p>Career Growth</p>
+            </div>
+            <div class="title-box">
+                <h3><a href="case-single.html">Successful Placements Transforming Careers</a></h3>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Single Case Style1-->
+
+<!--Start Single Case Style1-->
+<div class="case-style1__single">
+    <div class="img-box">
+        <div class="inner">
+            <img src="assets/images/resources/case-v1-2.jpg" alt="image">
+            <div class="overlay-icon">
+                <a class="lightbox-image" data-fancybox="gallery" href="assets/images/resources/case-v1-2.jpg">
+                    <i class="icon-zoom-in"></i>
+                </a>
+            </div>
+        </div>
+        <div class="overlay-content">
+            <div class="category-box">
+                <p>Hiring Process</p>
+            </div>
+            <div class="title-box">
+                <h3><a href="case-single.html">Quick & Efficient Hiring</a></h3>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Single Case Style1-->
+
+<!--Start Single Case Style1-->
+<div class="case-style1__single">
+    <div class="img-box">
+        <div class="inner">
+            <img src="assets/images/resources/case-v1-3.jpg" alt="image">
+            <div class="overlay-icon">
+                <a class="lightbox-image" data-fancybox="gallery" href="assets/images/resources/case-v1-3.jpg">
+                    <i class="icon-zoom-in"></i>
+                </a>
+            </div>
+        </div>
+        <div class="overlay-content">
+            <div class="category-box">
+                <p>Talent Acquisition</p>
+            </div>
+            <div class="title-box">
+                <h3><a href="case-single.html">Overcoming Recruitment Challenges</a></h3>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Single Case Style1-->
+
+<!--Start Single Case Style1-->
+<div class="case-style1__single">
+    <div class="img-box">
+        <div class="inner">
+            <img src="assets/images/resources/case-v1-4.jpg" alt="image">
+            <div class="overlay-icon">
+                <a class="lightbox-image" data-fancybox="gallery" href="assets/images/resources/case-v1-4.jpg">
+                    <i class="icon-zoom-in"></i>
+                </a>
+            </div>
+        </div>
+        <div class="overlay-content">
+            <div class="category-box">
+                <p>HR Solutions</p>
+            </div>
+            <div class="title-box">
+                <h3><a href="case-single.html">Custom Hiring Strategies for Business Growth</a></h3>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Single Case Style1-->
+
+<!--Start Single Case Style1-->
+<div class="case-style1__single">
+    <div class="img-box">
+        <div class="inner">
+            <img src="assets/images/resources/case-v1-5.jpg" alt="image">
+            <div class="overlay-icon">
+                <a class="lightbox-image" data-fancybox="gallery" href="assets/images/resources/case-v1-5.jpg">
+                    <i class="icon-zoom-in"></i>
+                </a>
+            </div>
+        </div>
+        <div class="overlay-content">
+            <div class="category-box">
+                <p>Technology Hiring</p>
+            </div>
+            <div class="title-box">
+                <h3><a href="case-single.html">Tech Talent Acquisition at Scale</a></h3>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Single Case Style1-->
+
 
                         </div>
                     </div>
@@ -1101,144 +1090,6 @@
             </div>
         </section>
         <!--End Case Style1-->
-
-
-        <!--Start Service Style3-->
-        <section class="service-style3">
-            <div class="container">
-                <div class="sec-title">
-                    <div class="sub-title">
-                        <h4>Service Areas</h4>
-                    </div>
-                    <h2>Our Specialized Industries</h2>
-                </div>
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="owl-carousel owl-theme thm-owl__carousel service-style3-carousel owl-nav-style-one"
-                            data-owl-options='{
-                        "loop": true,
-                        "autoplay": false,
-                        "margin": 30,
-                        "nav": true,
-                        "dots": false,
-                        "smartSpeed": 500,
-                        "autoplayTimeout": 10000,
-                        "navText": ["<span class=\"left icon-left-arrow-angle-big-gross-symbol\"></span>","<span class=\"right icon-arrow-angle-pointing-to-right\"></span>"],
-                        "responsive": {
-                                "0": {
-                                    "items": 1
-                                },
-                                "768": {
-                                    "items": 2
-                                },
-                                "992": {
-                                    "items": 2
-                                },
-                                "1200": {
-                                    "items": 3
-                                }
-                            }
-                        }'>
-
-                            <!--Start Single Service Style3-->
-                            <div class="service-style3__single text-center">
-                                <div class="service-style3__single-shape1">
-                                    <img src="assets/images/shapes/service-v3__shape1.png" alt="shape">
-                                </div>
-                                <div class="service-style3__single-shape2">
-                                    <img src="assets/images/shapes/service-v3__shape2.png" alt="shape">
-                                </div>
-                                <div class="category-box">
-                                    <p>Industry 01</p>
-                                </div>
-                                <div class="title-box">
-                                    <h3><a href="employers-overview.html">Accounting & Finance</a></h3>
-                                </div>
-                                <div class="border-line"></div>
-                                <div class="text">
-                                    <p>Cases are perfectly simple and easy to<br>distinguish in a free hour.</p>
-                                </div>
-                                <div class="btn-box">
-                                    <a href="employers-overview.html">
-                                        Explore More
-                                        <span class="icon-arrow-angle-pointing-to-right"></span>
-                                        <span class="icon-right-arrow-1 arrow-hover"></span>
-                                    </a>
-                                </div>
-                                <div class="icon-box">
-                                    <img src="assets/images/icon/services/service-icon-3-1.png" alt="icon">
-                                </div>
-                            </div>
-                            <!--End Single Service Style3-->
-                            <!--Start Single Service Style3-->
-                            <div class="service-style3__single text-center">
-                                <div class="service-style3__single-shape1">
-                                    <img src="assets/images/shapes/service-v3__shape1.png" alt="shape">
-                                </div>
-                                <div class="service-style3__single-shape2">
-                                    <img src="assets/images/shapes/service-v3__shape2.png" alt="shape">
-                                </div>
-                                <div class="category-box">
-                                    <p>Industry 02</p>
-                                </div>
-                                <div class="title-box">
-                                    <h3><a href="employers-overview.html">Digital Marketing</a></h3>
-                                </div>
-                                <div class="border-line"></div>
-                                <div class="text">
-                                    <p>Cases are perfectly simple and easy to<br>distinguish in a free hour.</p>
-                                </div>
-                                <div class="btn-box">
-                                    <a href="employers-overview.html">
-                                        Explore More
-                                        <span class="icon-arrow-angle-pointing-to-right"></span>
-                                        <span class="icon-right-arrow-1 arrow-hover"></span>
-                                    </a>
-                                </div>
-                                <div class="icon-box">
-                                    <img src="assets/images/icon/services/service-icon-3-2.png" alt="icon">
-                                </div>
-                            </div>
-                            <!--End Single Service Style3-->
-                            <!--Start Single Service Style3-->
-                            <div class="service-style3__single text-center">
-                                <div class="service-style3__single-shape1">
-                                    <img src="assets/images/shapes/service-v3__shape1.png" alt="shape">
-                                </div>
-                                <div class="service-style3__single-shape2">
-                                    <img src="assets/images/shapes/service-v3__shape2.png" alt="shape">
-                                </div>
-                                <div class="category-box">
-                                    <p>Industry 03</p>
-                                </div>
-                                <div class="title-box">
-                                    <h3><a href="employers-overview.html">Heathcare & Medical</a></h3>
-                                </div>
-                                <div class="border-line"></div>
-                                <div class="text">
-                                    <p>Cases are perfectly simple and easy to<br>distinguish in a free hour.</p>
-                                </div>
-                                <div class="btn-box">
-                                    <a href="employers-overview.html">
-                                        Explore More
-                                        <span class="icon-arrow-angle-pointing-to-right"></span>
-                                        <span class="icon-right-arrow-1 arrow-hover"></span>
-                                    </a>
-                                </div>
-                                <div class="icon-box">
-                                    <img src="assets/images/icon/services/service-icon-3-3.png" alt="icon">
-                                </div>
-                            </div>
-                            <!--End Single Service Style3-->
-
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
-        <!--End Service Style3-->
-
 
         <!--Start Why Choose Style1-->
         <section class="why-choose-style1">
@@ -1250,7 +1101,7 @@
                     <h2>Advantages of Working With Us</h2>
                     <div class="text">
                         <p>
-                            Long established fact that a reader will be distracted by the<br>readable content of a page.
+                          Our expert screening processes minimize mismatches and ensure candidates meet employer expectations. 
                         </p>
                     </div>
                 </div>
@@ -1408,7 +1259,7 @@
                                 <div class="icon">
                                     <span class="icon-bottom-up"></span>
                                 </div>
-                                <h4>Permanent Placement</h4>
+                                <h4>Product Based Hiring</h4>
                             </li>
                             <li>
                                 <div class="icon">
@@ -1447,268 +1298,351 @@
         <!--End Slogan Style1-->
 
 
-        <!--Start Team Style1-->
-        <section class="team-style1">
+        <!--Start Service Style3-->
+        <section class="service-style3">
             <div class="container">
                 <div class="sec-title">
                     <div class="sub-title">
-                        <h4>Team Behind Us</h4>
+                        <h4>Service Areas</h4>
                     </div>
-                    <h2>Our Recruitment Specialists</h2>
+                    <h2>Our Specialized Industries</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-12">
-                        <div class="owl-carousel owl-theme thm-owl__carousel team-style1-carousel owl-nav-style-one"
+                        <div class="owl-carousel owl-theme thm-owl__carousel service-style3-carousel owl-nav-style-one"
                             data-owl-options='{
-                            "loop": true,
-                            "autoplay": false,
-                            "margin": 30,
-                            "nav": true,
-                            "dots": false,
-                            "smartSpeed": 500,
-                            "autoplayTimeout": 10000,
-                            "navText": ["<span class=\"left icon-left-arrow-angle-big-gross-symbol\"></span>","<span class=\"right icon-arrow-angle-pointing-to-right\"></span>"],
-                            "responsive": {
-                                    "0": {
-                                        "items": 1
-                                    },
-                                    "768": {
-                                        "items": 2
-                                    },
-                                    "992": {
-                                        "items": 3
-                                    },
-                                    "1200": {
-                                        "items": 3
-                                    }
-                                }
-                            }'>
+                        "loop": true,
+                        "autoplay": false,
+                        "margin": 30,
+                        "nav": true,
+                        "dots": false,
+                        "smartSpeed": 500,
+                        "autoplayTimeout": 10000,
+                        "navText": ["<span class=\"left icon-left-arrow-angle-big-gross-symbol\"></span>","<span class=\"right icon-arrow-angle-pointing-to-right\"></span>"],
+                       "responsive": {
+     "0": {
+        "items": 1
+    },
+    "500": {
+        "items": 2
+    },
+    "768": {
+        "items": 3
+    },
+    "992": {
+        "items": 3
+    },
+    "1200": {
+        "items": 3
+    }
+     }
 
+                        }'>
 
-                            <!--Start Single Team Style1-->
-                            <div class="team-style1__single">
-                                <div class="img-box">
-                                    <img src="assets/images/team/team-v1-1.jpg" alt="image">
-                                    <div class="overlay-content">
-                                        <div class="title">
-                                            <h3><a href="team.html">Bertram Irvin</a></h3>
-                                        </div>
-                                        <div class="border-line"></div>
-                                        <div class="sub-title">
-                                            <div class="text">
-                                                <p>Senior Recruiter</p>
-                                            </div>
-                                            <div class="social-share-box">
-                                                <span class="icon-share"></span>
-                                                <ul class="clearfix">
-                                                    <li>
-                                                        <a href="#">
-                                                            <i class="icon-facebook"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">
-                                                            <i class="icon-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">
-                                                            <i class="icon-instagram-logo"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
+                            <!--Start Single Service Style3-->
+                            <div class="service-style3__single text-center">
+                                <div class="service-style3__single-shape1">
+                                    <img src="assets/images/shapes/service-v3__shape1.png" alt="shape">
+                                </div>
+                                <div class="service-style3__single-shape2">
+                                    <img src="assets/images/shapes/service-v3__shape2.png" alt="shape">
+                                </div>
+                                <div class="category-box">
+                                    <p>Industry 01</p>
+                                </div>
+                                <div class="title-box">
+                                    <h3><a href="about.php">Accounting & Finance</a></h3>
+                                </div>
+                                <div class="border-line"></div>
+                                <div class="text">
+                                    <p>Connecting finance professionals with top-tier firms for roles in auditing, payroll, taxation, and financial planning.</p>
+                                </div>
+                                <div class="btn-box">
+                                    <a href="about.php">
+                                        Explore More
+                                        <span class="icon-arrow-angle-pointing-to-right"></span>
+                                        <span class="icon-right-arrow-1 arrow-hover"></span>
+                                    </a>
+                                </div>
+                                <div class="icon-box">
+                                    <img src="assets/images/icon/services/service-icon-3-1.png" alt="icon">
                                 </div>
                             </div>
-                            <!--End Single Team Style1-->
-
-                            <!--Start Single Team Style1-->
-                            <div class="team-style1__single">
-                                <div class="img-box">
-                                    <img src="assets/images/team/team-v1-2.jpg" alt="image">
-                                    <div class="overlay-content">
-                                        <div class="title">
-                                            <h3><a href="team.html">Michel Kyle</a></h3>
-                                        </div>
-                                        <div class="border-line"></div>
-                                        <div class="sub-title">
-                                            <div class="text">
-                                                <p>Recruitment Manager</p>
-                                            </div>
-
-                                            <div class="social-share-box">
-                                                <span class="icon-share"></span>
-                                                <ul class="clearfix">
-                                                    <li>
-                                                        <a href="#">
-                                                            <i class="icon-facebook"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">
-                                                            <i class="icon-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">
-                                                            <i class="icon-instagram-logo"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
+                            <!--End Single Service Style3-->
+                            <!--Start Single Service Style3-->
+                            <div class="service-style3__single text-center">
+                                <div class="service-style3__single-shape1">
+                                    <img src="assets/images/shapes/service-v3__shape1.png" alt="shape">
+                                </div>
+                                <div class="service-style3__single-shape2">
+                                    <img src="assets/images/shapes/service-v3__shape2.png" alt="shape">
+                                </div>
+                                <div class="category-box">
+                                    <p>Industry 02</p>
+                                </div>
+                                <div class="title-box">
+                                    <h3><a href="about.php">Digital Marketing</a></h3>
+                                </div>
+                                <div class="border-line"></div>
+                                <div class="text">
+                                    <p>Matching skilled marketers with companies seeking SEO experts, content creators, social media managers, and more.</p>
+                                </div>
+                                <div class="btn-box">
+                                    <a href="about.php">
+                                        Explore More
+                                        <span class="icon-arrow-angle-pointing-to-right"></span>
+                                        <span class="icon-right-arrow-1 arrow-hover"></span>
+                                    </a>
+                                </div>
+                                <div class="icon-box">
+                                    <img src="assets/images/icon/services/service-icon-3-2.png" alt="icon">
                                 </div>
                             </div>
-                            <!--End Single Team Style1-->
-
-                            <!--Start Single Team Style1-->
-                            <div class="team-style1__single">
-                                <div class="img-box">
-                                    <img src="assets/images/team/team-v1-3.jpg" alt="image">
-                                    <div class="overlay-content">
-                                        <div class="title">
-                                            <h3><a href="team.html">Nora Lillian</a></h3>
-                                        </div>
-                                        <div class="border-line"></div>
-                                        <div class="sub-title">
-                                            <div class="text">
-                                                <p>IT Recruitment Specialist</p>
-                                            </div>
-
-                                            <div class="social-share-box">
-                                                <span class="icon-share"></span>
-                                                <ul class="clearfix">
-                                                    <li>
-                                                        <a href="#">
-                                                            <i class="icon-facebook"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">
-                                                            <i class="icon-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">
-                                                            <i class="icon-instagram-logo"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-
-                                        </div>
-                                    </div>
+                            <!--End Single Service Style3-->
+                            <!--Start Single Service Style3-->
+                            <div class="service-style3__single text-center">
+                                <div class="service-style3__single-shape1">
+                                    <img src="assets/images/shapes/service-v3__shape1.png" alt="shape">
+                                </div>
+                                <div class="service-style3__single-shape2">
+                                    <img src="assets/images/shapes/service-v3__shape2.png" alt="shape">
+                                </div>
+                                <div class="category-box">
+                                    <p>Industry 03</p>
+                                </div>
+                                <div class="title-box">
+                                    <h3><a href="about.php">Heathcare & Medical</a></h3>
+                                </div>
+                                <div class="border-line"></div>
+                                <div class="text">
+                                    <p>Providing reliable staffing solutions for hospitals, clinics, and healthcare startups — from nurses to medical administrators.</p>
+                                </div>
+                                <div class="btn-box">
+                                    <a href="about.php">
+                                        Explore More
+                                        <span class="icon-arrow-angle-pointing-to-right"></span>
+                                        <span class="icon-right-arrow-1 arrow-hover"></span>
+                                    </a>
+                                </div>
+                                <div class="icon-box">
+                                    <img src="assets/images/icon/services/service-icon-3-3.png" alt="icon">
                                 </div>
                             </div>
-                            <!--End Single Team Style1-->
-
+                            <!--End Single Service Style3-->
+                            <!--Start Single Service Style3-->
+                            <div class="service-style3__single text-center">
+                                <div class="service-style3__single-shape1">
+                                    <img src="assets/images/shapes/service-v3__shape1.png" alt="shape">
+                                </div>
+                                <div class="service-style3__single-shape2">
+                                    <img src="assets/images/shapes/service-v3__shape2.png" alt="shape">
+                                </div>
+                                <div class="category-box">
+                                    <p>Industry 04</p>
+                                </div>
+                                <div class="title-box">
+                                    <h3><a href="about.php">Information Technology</a></h3>
+                                </div>
+                                <div class="border-line"></div>
+                                <div class="text">
+                                    <p>Helping companies hire developers, software engineers, QA testers, DevOps experts, and IT support specialists.</p>
+                                </div>
+                                <div class="btn-box">
+                                    <a href="about.php">
+                                        Explore More
+                                        <span class="icon-arrow-angle-pointing-to-right"></span>
+                                        <span class="icon-right-arrow-1 arrow-hover"></span>
+                                    </a>
+                                </div>
+                                <div class="icon-box">
+                                    <img src="assets/images/icon/services/service-icon-1-4.png" alt="icon">
+                                </div>
+                            </div>
+                            <!--End Single Service Style3-->
+                             <!--Start Single Service Style3-->
+                            <div class="service-style3__single text-center">
+                                <div class="service-style3__single-shape1">
+                                    <img src="assets/images/shapes/service-v3__shape1.png" alt="shape">
+                                </div>
+                                <div class="service-style3__single-shape2">
+                                    <img src="assets/images/shapes/service-v3__shape2.png" alt="shape">
+                                </div>
+                                <div class="category-box">
+                                    <p>Industry 05</p>
+                                </div>
+                                <div class="title-box">
+                                    <h3><a href="about.php">Education & E-Learning</a></h3>
+                                </div>
+                                <div class="border-line"></div>
+                                <div class="text">
+                                    <p>Connecting qualified teachers, academic counselors, and content developers with schools, universities, and edtech platforms.</p>
+                                </div>
+                                <div class="btn-box">
+                                    <a href="about.php">
+                                        Explore More
+                                        <span class="icon-arrow-angle-pointing-to-right"></span>
+                                        <span class="icon-right-arrow-1 arrow-hover"></span>
+                                    </a>
+                                </div>
+                                <div class="icon-box">
+                                    <img src="assets/images/icon/services/service-icon-1-5.png" alt="icon">
+                                </div>
+                            </div>
+                            <!--End Single Service Style3-->
+                             <!--Start Single Service Style3-->
+                            <div class="service-style3__single text-center">
+                                <div class="service-style3__single-shape1">
+                                    <img src="assets/images/shapes/service-v3__shape1.png" alt="shape">
+                                </div>
+                                <div class="service-style3__single-shape2">
+                                    <img src="assets/images/shapes/service-v3__shape2.png" alt="shape">
+                                </div>
+                                <div class="category-box">
+                                    <p>Industry 06</p>
+                                </div>
+                                <div class="title-box">
+                                    <h3><a href="about.php">Retail & E-commerce</a></h3>
+                                </div>
+                                <div class="border-line"></div>
+                                <div class="text">
+                                    <p>Staffing for sales associates, inventory managers, logistics coordinators, and customer service executives across online and offline retail</p>
+                                </div>
+                                <div class="btn-box">
+                                    <a href="about.php">
+                                        Explore More
+                                        <span class="icon-arrow-angle-pointing-to-right"></span>
+                                        <span class="icon-right-arrow-1 arrow-hover"></span>
+                                    </a>
+                                </div>
+                                <div class="icon-box">
+                                    <img src="assets/images/icon/services/service-icon-1-6.png" alt="icon">
+                                </div>
+                            </div>
+                            <!--End Single Service Style3-->
                         </div>
                     </div>
-                </div>
-
-                <div class="team-style1__btn">
-                    <a href="team-2.html">
-                        See all Members
-                        <i class="icon-arrow-angle-pointing-to-right"></i>
-                    </a>
-                </div>
-
-            </div>
-        </section>
-        <!--End Team Style1-->
-
-
-        <!--Start Award Style1-->
-        <section class="award-style1">
-            <div class="container">
-                <div class="sec-title withtext text-center">
-                    <div class="sub-title">
-                        <h4>Awards & Achivements</h4>
-                    </div>
-                    <h2>Our Impressive Milestones</h2>
-                    <div class="text">
-                        <p>Long established fact that a reader will be distracted by the.</p>
-                    </div>
-                </div>
-                <div class="row">
-
-                    <!--Start Single Award Style1-->
-                    <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="award-style1__single">
-                            <div class="award-style1__single-shape1">
-                                <img src="assets/images/shapes/award-style1__shape1.png" alt="shape">
-                            </div>
-                            <div class="row">
-                                <div class="col-xl-6">
-                                    <div class="award-style1__single-content">
-                                        <div class="icon">
-                                            <img src="assets/images/icon/award/award-v1-icon-1.png" alt="icon">
-                                        </div>
-                                        <div class="category-box">
-                                            <p>mca’s awards</p>
-                                        </div>
-                                        <div class="title">
-                                            <h3><a href="about.php">Best Personnel Service<br>Provider.</a></h3>
-                                        </div>
-                                        <div class="year">
-                                            <h4>2025</h4>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6">
-                                    <div class="award-style1__single-img">
-                                        <img src="assets/images/resources/award-v1-img1.jpg" alt="image">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Single Award Style1-->
-
-                    <!--Start Single Award Style1-->
-                    <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="award-style1__single">
-                            <div class="award-style1__single-shape1">
-                                <img src="assets/images/shapes/award-style1__shape1.png" alt="shape">
-                            </div>
-                            <div class="row">
-                                <div class="col-xl-6">
-                                    <div class="award-style1__single-content">
-                                        <div class="icon">
-                                            <img src="assets/images/icon/award/award-v1-icon-1.png" alt="icon">
-                                        </div>
-                                        <div class="category-box">
-                                            <p>Arup awards</p>
-                                        </div>
-                                        <div class="title">
-                                            <h3><a href="about.php">Best Staffing Firm to<br>Work For.</a></h3>
-                                        </div>
-                                        <div class="year">
-                                            <h4>2022</h4>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6">
-                                    <div class="award-style1__single-img">
-                                        <img src="assets/images/resources/award-v1-img2.jpg" alt="image">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Single Award Style1-->
 
                 </div>
             </div>
         </section>
-        <!--End Award Style1-->
+        <!--End Service Style3-->
+
+
+<!--Start Faq Style1-->
+<section class="faq-style1">
+    <div class="container">
+        <div class="sec-title withtext text-center">
+            <div class="sub-title">
+                <h4>FAQ’s</h4>
+            </div>
+            <h2>Common Questions & Answers</h2>
+            <div class="text">
+                <p>
+                    Whether you're an employer or a job seeker, here are answers to the most frequently asked questions on our platform.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+
+            <div class="col-xl-6">
+                <div class="faq-style1__img">
+                    <div class="inner">
+                        <img src="assets/images/resources/faq-v1-img1.jpg" alt="image">
+                    </div>
+                    <div class="overlay-content">
+                        <a href="#" class="icon">
+                            <span class="icon-question"><span class="path1"></span><span
+                                    class="path2"></span><span class="path3"></span></span>
+                        </a>
+                        <h3>Can't Find<br>Your Answer?</h3>
+                        <p>Send your questions<br>to our support team, we're here to help.</p>
+                        <div class="btn-box">
+                            <a class="btn-one" href="faq.html">
+                                <span class="txt">Send Now</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-6">
+                <div class="faq-style1__content">
+                    <ul class="accordion-box-style1">
+                        <!--Start single accordion box-->
+                        <li class="accordion accordion-block">
+                            <div class="accord-btn active">
+                                <h4>What industries do you cater to?</h4>
+                            </div>
+                            <div class="accord-content collapsed">
+                                <p>
+                                    We serve a wide range of industries including IT, Finance, Healthcare, Marketing, Logistics, and more—ensuring the right talent for every sector.
+                                </p>
+                            </div>
+                        </li>
+                        <!--End single accordion box-->
+
+                        <li class="accordion accordion-block">
+                            <div class="accord-btn">
+                                <h4>What types of job roles are available?</h4>
+                            </div>
+                            <div class="accord-content">
+                                <p>
+                                    From full-time and part-time roles to contract and freelance opportunities, we offer a variety of positions across all experience levels.
+                                </p>
+                            </div>
+                        </li>
+
+                        <li class="accordion accordion-block">
+                            <div class="accord-btn">
+                                <h4>Is there any registration fee for job seekers?</h4>
+                            </div>
+                            <div class="accord-content">
+                                <p>
+                                    No, our platform is completely free for job seekers. You can register, apply, and access resources without any charges.
+                                </p>
+                            </div>
+                        </li>
+
+                        <li class="accordion accordion-block">
+                            <div class="accord-btn">
+                                <h4>How long do temporary or contract jobs usually last?</h4>
+                            </div>
+                            <div class="accord-content">
+                                <p>
+                                    Temporary assignments can range from a few days to several months, depending on the project and employer needs.
+                                </p>
+                            </div>
+                        </li>
+
+                        <li class="accordion accordion-block">
+                            <div class="accord-btn">
+                                <h4>How does billing work for employers using your platform?</h4>
+                            </div>
+                            <div class="accord-content">
+                                <p>
+                                    Employers are billed based on selected plans, job credits, or subscription tiers. Custom billing is also available for enterprise clients.
+                                </p>
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="btn-box">
+                        <a href="#">
+                            More Questions & Answers
+                            <i class="icon-arrow-angle-pointing-to-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!--End Faq Style1-->
+
 
 
         <!--Start Testimonial Style2 -->
-        <section class="testimonial-style2">
+        <section class="testimonial-style2" style="background-color: #158c7f;">
             <div class="container">
                 <div class="row">
 
@@ -2062,53 +1996,59 @@
                     </form>
                 </div>
 
-                <!-- <div class="employers-employee-phone-email-box">
+                <div class="employers-employee-phone-email-box">
                     <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-md-6">
+                        <div class="col-xl-4 col-lg-4 col-md-4">
                             <div class="single-box">
                                 <div class="title text-center">
-                                    <h3>Employers</h3>
+                                    <h3>Address</h3>
                                 </div>
                                 <ul>
                                     <li>
                                         <div class="icon">
-                                            <span class="icon-mobile"></span>
+                                            <span class="icon-address"></span>
                                         </div>
-                                        <a href="tel:123456789">(+41) 888.56.7890</a>
+                                        <a href="">Ifza Properties,Dubai,Silicon Oasis</a>
                                     </li>
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-email"></span>
-                                        </div>
-                                        <a href="mailto:info@templatepath.com">employer@hiringhub.com</a>
-                                    </li>
+                                   
                                 </ul>
                             </div>
                         </div>
 
-                        <div class="col-xl-6 col-lg-6 col-md-6">
+                        <div class="col-xl-4 col-lg-4 col-md-4">
                             <div class="single-box single-box-style2">
                                 <div class="title title2 text-center">
-                                    <h3>employee</h3>
+                                    <h3>Phone Number</h3>
                                 </div>
                                 <ul>
                                     <li>
                                         <div class="icon">
                                             <span class="icon-mobile"></span>
                                         </div>
-                                        <a href="tel:123456789">(+41) 888.56.7890</a>
+                                        <a href="tel:+971 50 298 0048">+971 50 298 0048</a>
                                     </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-4">
+                            <div class="single-box single-box-style2">
+                                <div class="title title2 text-center">
+                                    <h3>Mail </h3>
+                                </div>
+                                <ul>
+                                   
                                     <li>
                                         <div class="icon">
                                             <span class="icon-email"></span>
                                         </div>
-                                        <a href="mailto:info@templatepath.com">employer@hiringhub.com</a>
+                                        <a href="mailto: bharti@bhritisglobal.com"> bharti@bhritisglobal.com</a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                </div> -->
+                </div>
 
             </div>
         </section>
@@ -2116,7 +2056,7 @@
 
 
         <!--Start footer Style1 -->
-        <footer class="footer-style2" style="background-color: #32547f;">
+        <footer class="footer-style2" style="background-color: #158c7f;">
 
             <!--Start Footer Main-->
             <div class="footer-main">
@@ -2137,7 +2077,7 @@
                                             Committed to excellence, guided by experience, and focused on your success.
                                         </p>
                                     </div>
-                                    <div class="social-links">
+                                    <!-- <div class="social-links">
                                         <ul>
                                             <li>
                                                 <a href="https://www.facebook.com/">
@@ -2160,20 +2100,15 @@
                                                 </a>
                                             </li>
                                         </ul>
-                                    </div>
-                                    <div class="copyright-text copyright-text__style2">
-                                        <p>
-                                            © 2025 Brihati Global Recruiters, All <br>
-                                            Rights Reserved.
-                                        </p>
-                                    </div>
+                                    </div> -->
+                                    
                                 </div>
                             </div>
                         </div>
                         <!--End single footer widget-->
 
                         <!--Start Single Footer Widget-->
-                        <div class="col-xl-4 col-lg-6 col-md-6 single-widget">
+                        <div class="col-xl-4 col-lg-6 col-md-6 single-widget" style="margin-top:50px">
                             <div class="single-footer-widget single-footer-widget-link-box">
                                 <div class="title">
                                     <h3>Useful Links</h3>
@@ -2184,44 +2119,24 @@
 
                                         <div class="footer-widget-links">
                                             <ul>
-                                                <li>
-                                                    <a href="job-seekers-overview.html">
-                                                        Benefits
-                                                        <i class="icon-arrow-angle-pointing-to-right arrow-hover"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="solution06-outsourcing.html">
-                                                        Resources
-                                                        <i class="icon-arrow-angle-pointing-to-right arrow-hover"></i>
-                                                    </a>
-                                                </li>
+                                               
+                                               
                                                 <li>
                                                     <a href="job-openings.html">
                                                         Opportunities
                                                         <i class="icon-arrow-angle-pointing-to-right arrow-hover"></i>
                                                     </a>
                                                 </li>
+                                               
                                                 <li>
-                                                    <a href="apply-now.html">
-                                                        Portal
-                                                        <i class="icon-arrow-angle-pointing-to-right arrow-hover"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="testimonials.html">
+                                                    <a href="testimonials.php">
                                                         Testimonials
                                                         <i class="icon-arrow-angle-pointing-to-right arrow-hover"></i>
                                                     </a>
                                                 </li>
+                                               
                                                 <li>
-                                                    <a href="employers-overview.html">
-                                                        Training
-                                                        <i class="icon-arrow-angle-pointing-to-right arrow-hover"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="faq.html">
+                                                    <a href="faq.php">
                                                         Faq’s
                                                         <i class="icon-arrow-angle-pointing-to-right arrow-hover"></i>
                                                     </a>
@@ -2240,41 +2155,17 @@
                                                         </i>
                                                     </a>
                                                 </li>
+                                              
                                                 <li>
-                                                    <a href="team.html">
-                                                        Leaderships
-                                                        <i class="icon-arrow-angle-pointing-to-right arrow-hover">
-                                                        </i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="solutions-1.html">
+                                                    <a href="solution.php">
                                                         Services
                                                         <i class="icon-arrow-angle-pointing-to-right arrow-hover">
                                                         </i>
                                                     </a>
                                                 </li>
-                                                <li>
-                                                    <a href="job-details.html">
-                                                        Industries Served
-                                                        <i class="icon-arrow-angle-pointing-to-right arrow-hover">
-                                                        </i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="contact.html">
-                                                        Locations
-                                                        <i class="icon-arrow-angle-pointing-to-right arrow-hover">
-                                                        </i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="case-single.html">
-                                                        Case Studies
-                                                        <i class="icon-arrow-angle-pointing-to-right arrow-hover">
-                                                        </i>
-                                                    </a>
-                                                </li>
+                                               
+                                               
+                                               
                                             </ul>
                                         </div>
                                     </div>
@@ -2326,11 +2217,11 @@
                 <div class="container">
                     <div class="bottom-inner">
                         <div class="footer-menu">
-                            <ul>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Terms & Conditions</a></li>
-                                <li><a href="#">Legal</a></li>
-                            </ul>
+                            <div class="copyright-text copyright-text__style2">
+                                        <p>
+                                            © 2025 Brihati Global Recruiters, All  Rights Reserved.
+                                        </p>
+                                    </div>
                         </div>
 
                     </div>
@@ -2375,12 +2266,12 @@
                     <a href="tel:+971 5029 80048">+971 5029 80048</a>
                 </li>
             </ul>
-            <div class="mobile-nav__social">
+            <!-- <div class="mobile-nav__social">
                 <a href="#" class="fab fa-twitter"></a>
                 <a href="#" class="fab fa-facebook-square"></a>
                 <a href="#" class="fab fa-pinterest-p"></a>
                 <a href="#" class="fab fa-instagram"></a>
-            </div>
+            </div> -->
         </div>
     </div>
 

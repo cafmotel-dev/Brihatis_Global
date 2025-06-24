@@ -192,7 +192,7 @@
 .footer-main {
     position: relative;
     display: block;
-    padding: 120px 0px 112px;
+    padding: 40px 0px 30px;
 }
 
 .single-footer-widget {
@@ -409,7 +409,7 @@
     position: relative;
     display: inline-flex;
     align-items: center;
-    color: #a5b1ad;
+    color: white;
     font-size: 17px;
     line-height: 25px;
     font-family: var(--thm-font);
@@ -522,7 +522,7 @@
 .footer-menu ul li a {
     position: relative;
     display: inline-block;
-    color: #a5b1ad;
+    color: white;
     font-size: 17px;
     line-height: 27px;
     font-family: var(--thm-font);
@@ -572,11 +572,11 @@
 .footer-widget-info-box .text-box {
     position: relative;
     display: block;
-    padding-top: 27px;
+    /* padding-top: 27px; */
 }
 
 .footer-widget-info-box .text-box p {
-    color: #a5b1ad;
+    color: white;
 }
 
 .footer-widget-info-box .social-links {
@@ -624,7 +624,7 @@
 }
 
 .copyright-text__style2 p {
-    color: #a5b1ad;
+    color: white;
 }
 
 .single-footer-widget-upload-resume {
