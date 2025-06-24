@@ -33,7 +33,7 @@
 :root {
     --thm-font: 'Outfit', sans-serif;
     --thm-font-2: "Lora", serif;
-    --thm-primary-color: #00c486;
+    --thm-primary-color: #eb8d4a;
     --thm-primary-color-rgb: 0, 196, 134;
     --thm-secondary-color: #ed746c;
     --thm-secondary-color-rgb: 237, 116, 108;
@@ -2425,7 +2425,7 @@ select:focus {
     Welcome Style1 Css
 --------------------------------------------*/
 .welcome-style1 {
-    padding: 120px 0px 120px;
+    padding: 50px 0px 50px;
     background-color: var(--thm-white);
 }
 
@@ -2707,7 +2707,7 @@ select:focus {
 ***/
 .why-choose-style1 {
     background-color: var(--thm-white);
-    padding: 120px 0px 20px;
+    padding: 50px 0px 20px;
 }
 
 .why-choose-style1__inner {

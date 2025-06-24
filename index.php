@@ -46,7 +46,17 @@
     <!-- Template styles -->
     <link rel="stylesheet" href="assets/css/style.css" />
     <link rel="stylesheet" href="assets/css/responsive.css" />
+<style>
+.logo-box-style2 {
+  max-width: 250px;
+}
 
+@media screen and (min-width: 425px) and (max-width: 767px) {
+  .logo-box-style2 {
+    max-width: 180px;
+  }
+}
+    </style>
 </head>
 
 <body class="body-bg-1">
@@ -89,8 +99,8 @@
                     <div class="sidebar-info-contents">
                         <div class="content-inner">
                             <div class="logo">
-                                <a href="index.html">
-                                    <img src="assets/images/resources/side-content__logo.png" alt="" />
+                                <a href="index.php">
+                                    <img src="assets/images/resources/brihatis-global.png" alt="" />
                                 </a>
                             </div>
                             <div class="content-box">
@@ -121,7 +131,7 @@
                                     <li>
                                         <div class="inner">
                                             <div class="text">
-                                                <p><a href="tel:+8801682648101">+1800 456 7890</a></p>
+                                                <p><a href="tel:+971 50 298 0048">+971 50 298 0048</a></p>
                                             </div>
                                         </div>
                                     </li>
@@ -137,7 +147,7 @@
 
                             <div class="side-content-newsletter-box">
                                 <h3>Newsletter Subscription</h3>
-                                <form action="https://mehedi.asiandevelopers.com/2025/hiringhub/index.html" method="post">
+                                <form action="https://mehedi.asiandevelopers.com/2025/hiringhub/index.php" method="post">
                                     <div class="form-group">
                                         <input type="email" name="email" placeholder="Enter Email Address" required="">
                                         <button class="btn-one" type="submit">
@@ -196,8 +206,8 @@
                             </a>
                         </div>
                         <div class="logo-box-style2">
-                            <a href="index.html">
-                                <img src="assets/images/resources/logo-2.png" alt="Awesome Logo" title="">
+                            <a href="index.php">
+                                <img src="assets/images/resources/brihatis.png" alt="Awesome Logo" title="" >
                             </a>
                         </div>
                         <!--Start Main Menu Style1-->
@@ -205,8 +215,8 @@
                             <div class="main-menu__wrapper clearfix">
                                 <div class="main-menu__wrapper-inner">
                                     <div class="sticky-logo-box-style1">
-                                        <a href="index.html">
-                                            <img src="assets/images/resources/brihatis.png" alt="Awesome Logo"
+                                        <a href="index.php">
+                                            <img src="assets/images/resources/brihatis.png" alt="Awesome Logo" style="max-width:220px"
                                                 title="">
                                         </a>
                                     </div>
@@ -218,49 +228,12 @@
 
                                             <ul class="main-menu__list">
                                                 <li class="dropdown">
-                                                    <a href="#">Home</a>
-                                                    <ul>
-                                                        <li><a href="index.html">Home Page 01</a></li>
-                                                        <li><a href="index-2.html">Home Page 02</a></li>
-                                                        <li><a href="index-3.html">Home Page 03</a></li>
-                                                        <li><a href="index-4.html">Home Page 04</a></li>
-                                                        <li><a href="index-5.html">Home Page 05</a></li>
-                                                    </ul>
+                                                    <a href="index.php">Home</a>
+                                                   
                                                 </li>
                                                 <li class="dropdown">
-                                                    <a href="#">About</a>
-                                                    <ul>
-                                                        <li><a href="about.html">About Us</a></li>
-                                                        <li class="dropdown">
-                                                            <a href="#">Team Members</a>
-                                                            <ul>
-                                                                <li><a href="team.html">Team Members 01</a></li>
-                                                                <li><a href="team-2.html">Team Members 02</a></li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="dropdown">
-                                                            <a href="#">Blog</a>
-                                                            <ul>
-                                                                <li><a href="blog.html">Blog Grid 01</a></li>
-                                                                <li><a href="blog-2.html">Blog Grid 02</a></li>
-                                                                <li><a href="blog-3.html">Blog List 01</a></li>
-                                                                <li><a href="blog-4.html">Blog List 02</a></li>
-                                                                <li><a href="blog-single.html">Blog Single Post</a></li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="dropdown">
-                                                            <a href="#">Case Studies</a>
-                                                            <ul>
-                                                                <li><a href="case.html">Case Grid 01</a></li>
-                                                                <li><a href="case-2.html">Case Grid 02</a></li>
-                                                                <li><a href="case-3.html">Case Grid 03</a></li>
-                                                                <li><a href="case-masonry.html">Case Masonry</a></li>
-                                                                <li><a href="case-single.html">Case Single Post</a></li>
-                                                            </ul>
-                                                        </li>
-                                                        <li><a href="404.html">404</a></li>
-                                                        <li><a href="coming-soon.html">Coming Soon</a></li>
-                                                    </ul>
+                                                    <a href="about.php">About</a>
+                                                   
                                                 </li>
                                                 <li class="dropdown">
                                                     <a href="#">Employers</a>
@@ -275,41 +248,8 @@
                                                     </ul>
                                                 </li>
                                                 <li class="dropdown">
-                                                    <a href="#">Solutions</a>
-                                                    <ul>
-                                                        <li><a href="solutions-1.html">Solutions 01</a></li>
-                                                        <li><a href="solutions-2.html">Solutions 02</a></li>
-                                                        <li>
-                                                            <a href="solution01-temporary-stafing.html">
-                                                                Temporary Stafing
-                                                            </a>
-                                                        </li>
-                                                        <li>
-                                                            <a href="solution02-contract-stafing.html">
-                                                                Contract Staffing
-                                                            </a>
-                                                        </li>
-                                                        <li>
-                                                            <a href="solution03-project-based.html">
-                                                                Project-Based Hiring
-                                                            </a>
-                                                        </li>
-                                                        <li>
-                                                            <a href="solution04-permanent-stafing.html">
-                                                                Permanent Staffing
-                                                            </a>
-                                                        </li>
-                                                        <li>
-                                                            <a href="solution05-payrolling.html">
-                                                                Payrolling
-                                                            </a>
-                                                        </li>
-                                                        <li>
-                                                            <a href="solution06-outsourcing.html">
-                                                                Outsourcing
-                                                            </a>
-                                                        </li>
-                                                    </ul>
+                                                    <a href="solution.php">Solutions</a>
+                                                   
                                                 </li>
                                                 <li class="dropdown">
                                                     <a href="#">Job Seekers</a>
@@ -329,7 +269,7 @@
                                                     </ul>
                                                 </li>
                                                 <li>
-                                                    <a href="contact.html">Contact</a>
+                                                    <a href="contact.php">Contact</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -350,11 +290,11 @@
                         </div>
                         <div class="hedaer-style1-request-call-box">
                             <div class="icon">
-                                <span class="icon-call-back"></span>
+                                <span class="icon-call-back" style="background-color: #cf6417;"></span>
                             </div>
                             <div class="text">
                                 <p>Request</p>
-                                <a href="tel:18885678907891">Consult Call</a>
+                                <a href="tel:+971 5029 80048">Consult Call</a>
                             </div>
                         </div>
                     </div>
@@ -415,7 +355,7 @@
                                                         <p>Trouble that are bound to ensue and equal that shrinking.</p>
                                                     </div>
                                                     <div class="btn-box">
-                                                        <a class="btn-one" href="about.html">
+                                                        <a class="btn-one" href="about.php">
                                                             <span class="txt">
                                                                 Learn More
                                                             </span>
@@ -466,7 +406,7 @@
                                                         <p>Some advantage from it? But who has any right to find.</p>
                                                     </div>
                                                     <div class="btn-box">
-                                                        <a class="btn-one" href="about.html">
+                                                        <a class="btn-one" href="about.php">
                                                             <span class="txt">
                                                                 Learn More
                                                             </span>
@@ -517,7 +457,7 @@
                                                         <p>Some advantage from it? But who has any right to find.</p>
                                                     </div>
                                                     <div class="btn-box">
-                                                        <a class="btn-one" href="about.html">
+                                                        <a class="btn-one" href="about.php">
                                                             <span class="txt">
                                                                 Learn More
                                                             </span>
@@ -595,18 +535,107 @@
         </section>
         <!--Main Slider End-->
 
+<!--Start Welcome Style1-->
+        <section class="welcome-style1">
+            <div class="container">
+                <div class="welcome-style1__top-title">
+                    <div class="sec-title">
+                        <div class="sub-title">
+                            <h4>Welcome to  Brihatis Global</h4>
+                        </div>
+                        <h2>Navigating Career Paths</h2>
+                    </div>
+                    <div class="text">
+                        <p>Empowering employers and job seekers to connect through smart, reliable staffing solutions.</p>
+                    </div>
+                </div>
+                <div class="row">
 
+                    <div class="col-xl-8">
+                        <div class="welcome-style1__img">
+                            <div class="row">
+                                <div class="col-xl-6 col-lg-6 col-md-6">
+                                    <div class="welcome-style1__img-single">
+                                        <img src="assets/images/resources/welcome-style1-img-1.jpg" alt="">
+                                        <div class="overlay-btn">
+                                            <a href="about.php">
+                                                Employers
+                                                <span class="icon-right-arrow"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6">
+                                    <div class="welcome-style1__img-single">
+                                        <img src="assets/images/resources/welcome-style1-img-2.jpg" alt="">
+                                        <div class="overlay-btn">
+                                            <a href="about.php">
+                                                employees
+                                                <span class="icon-right-arrow"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-4">
+                        <div class="welcome-style1__content">
+                            <div class="big-round"></div>
+                            <div class="sec-title">
+                                <div class="sub-title">
+                                    <h4>For Employers</h4>
+                                </div>
+                                <h2>Discover Career Options</h2>
+                            </div>
+                            <div class="text">
+                                <p>
+                                    Find the right talent quickly and efficiently through our tailored hiring services.
+                                </p>
+                            </div>
+                            <div class="list-item">
+                                <ul>
+                                    <li>
+                                        <div class="round-box"></div>
+                                        <a href="about.php">
+                                            Contract Talent
+                                            <i class="icon-arrow-angle-pointing-to-right"></i>
+                                            <i class="icon-arrow-angle-pointing-to-right arrow-hover"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <div class="round-box"></div>
+                                        <a href="about.php">
+                                            Permanent Placement
+                                            <i class="icon-arrow-angle-pointing-to-right"></i>
+                                            <i class="icon-arrow-angle-pointing-to-right arrow-hover"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="icon-box">
+                                <span class="icon-leader"><span class="path1"></span><span class="path2"></span><span
+                                        class="path3"></span><span class="path4"></span></span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!--End Welcome Style1-->
         <!--Start Service Style2-->
-        <section class="service-style2">
+        <section class="service-style2" style="padding:50px 0 50px">
             <div class="container">
                 <div class="sec-title withtext text-center">
                     <div class="sub-title">
                         <h4>Solutions we provide</h4>
                     </div>
-                    <h2>Innovative Solutions for Talents</h2>
+                    <h2>Innovative Hiring Solutions for Modern Workforces</h2>
                     <div class="text">
                         <p>
-                            Long established fact that a reader will be distracted by the<br>readable content of a page.
+                            Whether you're an employer seeking top talent or a job seeker exploring opportunities,<br> our tailored staffing models help you achieve your goals efficiently.
                         </p>
                     </div>
                 </div>
@@ -627,10 +656,10 @@
                                 </div>
                             </div>
                             <div class="text-box">
-                                <p>The wise man therefore<br>always holds in these matters<br>to this one...</p>
+                                <p>Our temporary staffing solutions help you manage peak workloads without long-term commitments.</p>
                             </div>
                             <div class="btn-box">
-                                <a href="solution01-temporary-stafing.html">
+                                <a href="solution.php">
                                     Explore More
                                     <span class="icon-arrow-angle-pointing-to-right"></span>
                                     <span class="icon-right-arrow-1 arrow-hover"></span>
@@ -654,10 +683,10 @@
                                 </div>
                             </div>
                             <div class="text-box">
-                                <p>Right to find fault with a man<br>chooses annoying to be that<br>consequences...</p>
+                                <p>Flexible and cost-effective hiring for roles that require unique skillsets and limited durations.</p>
                             </div>
                             <div class="btn-box">
-                                <a href="solution02-contract-stafing.html">
+                                <a href="solution.php">
                                     Explore More
                                     <span class="icon-arrow-angle-pointing-to-right"></span>
                                     <span class="icon-right-arrow-1 arrow-hover"></span>
@@ -681,10 +710,10 @@
                                 </div>
                             </div>
                             <div class="text-box">
-                                <p>Occasionally circumstances<br>occur in painprocure some<br>great content...</p>
+                                <p>Get access to qualified professionals to execute critical tasks with defined timelines and deliverables</p>
                             </div>
                             <div class="btn-box">
-                                <a href="solution03-project-based.html">
+                                <a href="solution.php">
                                     Explore More
                                     <span class="icon-arrow-angle-pointing-to-right"></span>
                                     <span class="icon-right-arrow-1 arrow-hover"></span>
@@ -708,11 +737,10 @@
                                 </div>
                             </div>
                             <div class="text-box">
-                                <p>The claims off duty or the<br>obligations of business it will<br>frequently occur
-                                    that...</p>
+                                <p>Our permanent placement services match employers with candidates who align with their values and culture.</p>
                             </div>
                             <div class="btn-box">
-                                <a href="solution04-permanent-stafing.html">
+                                <a href="solution.php">
                                     Explore More
                                     <span class="icon-arrow-angle-pointing-to-right"></span>
                                     <span class="icon-right-arrow-1 arrow-hover"></span>
@@ -728,7 +756,7 @@
         <!--End Service Style2-->
 
         <!--Start About Style2-->
-        <section class="about-style2">
+        <section class="about-style2" style=" background-color: #158c7f;">
             <div class="container">
                 <div class="about-style2__tab">
                     <div class="row">
@@ -770,7 +798,7 @@
                                     </ul>
                                 </div>
                                 <div class="btn-box2">
-                                    <a href="about.html">
+                                    <a href="about.php">
                                         More about our Agency
                                         <i class="icon-arrow-angle-pointing-to-right"></i>
                                     </a>
@@ -809,7 +837,7 @@
                                                     pain<br>that produces no resultant.
                                                 </p>
                                                 <div class="btn-box">
-                                                    <a href="about.html">
+                                                    <a href="about.php">
                                                         Explore More
                                                         <i class="icon-arrow-angle-pointing-to-right"></i>
                                                     </a>
@@ -846,7 +874,7 @@
                                                     pain<br>that produces no resultant.
                                                 </p>
                                                 <div class="btn-box">
-                                                    <a href="about.html">
+                                                    <a href="about.php">
                                                         Explore More
                                                         <i class="icon-arrow-angle-pointing-to-right"></i>
                                                     </a>
@@ -882,7 +910,7 @@
                                                     pain<br>that produces no resultant.
                                                 </p>
                                                 <div class="btn-box">
-                                                    <a href="about.html">
+                                                    <a href="about.php">
                                                         Explore More
                                                         <i class="icon-arrow-angle-pointing-to-right"></i>
                                                     </a>
@@ -1241,7 +1269,7 @@
                                                 <h4>Reduce Hiring Risks</h4>
                                             </div>
                                             <div class="btn-box">
-                                                <a href="about.html">
+                                                <a href="about.php">
                                                     <i class="icon-diagonal-arrow-1 arrow1"></i>
                                                 </a>
                                             </div>
@@ -1255,7 +1283,7 @@
                                                 <h4>Deeper Talent Pools</h4>
                                             </div>
                                             <div class="btn-box">
-                                                <a href="about.html">
+                                                <a href="about.php">
                                                     <i class="icon-diagonal-arrow-1 arrow2"></i>
                                                 </a>
                                             </div>
@@ -1275,7 +1303,7 @@
                                                 <h4>Employer Branding</h4>
                                             </div>
                                             <div class="btn-box">
-                                                <a href="about.html">
+                                                <a href="about.php">
                                                     <i class="icon-diagonal-arrow-1"></i>
                                                 </a>
                                             </div>
@@ -1301,7 +1329,7 @@
                                     <div class="why-choose-style1__list">
                                         <div class="content-box box1">
                                             <div class="btn-box box1">
-                                                <a href="about.html">
+                                                <a href="about.php">
                                                     <i class="icon-diagonal-arrow-1 arrow3"></i>
                                                 </a>
                                             </div>
@@ -1321,7 +1349,7 @@
                                         </div>
                                         <div class="content-box box1">
                                             <div class="btn-box box1">
-                                                <a href="about.html">
+                                                <a href="about.php">
                                                     <i class="icon-diagonal-arrow-1 arrow2 arrow4"></i>
                                                 </a>
                                             </div>
@@ -1335,7 +1363,7 @@
                                     <div class="why-choose-style1__list">
                                         <div class="content-box box1">
                                             <div class="btn-box box1">
-                                                <a href="about.html">
+                                                <a href="about.php">
                                                     <i class="icon-diagonal-arrow-1 arrow5"></i>
                                                 </a>
                                             </div>
@@ -1359,7 +1387,7 @@
 
 
         <!--Start Slogan Style1-->
-        <section class="slogan-style1">
+        <section class="slogan-style1" style=" background-color: #158c7f">
             <div class="container">
                 <div class="slogan-style1__inner text-center">
                     <div class="big-title">
@@ -1393,24 +1421,24 @@
                     <div class="contact-communicate">
                         <div class="contact-box box1">
                             <p>Have question?</p>
-                            <a href="faq.html">
+                            <a href="faq.php">
                                 Explore our FAQ section
                                 <i class="icon-arrow-angle-pointing-to-right"></i>
                             </a>
                         </div>
                         <div class="icon-box">
-                            <a href="faq.html">
+                            <a href="faq.php">
                                 <span class="icon-question"><span class="path1"></span><span class="path2"></span><span
                                         class="path3"></span>
                                 </span>
                             </a>
-                            <a href="mailto:inquiries@hiringhub.com" class="box1">
+                            <a href="mailto:bharti@bhritisglobal.com" class="box1">
                                 <span class="icon-mail"><span class="path1"></span><span class="path2"></span></span>
                             </a>
                         </div>
                         <div class="contact-box">
                             <p>Email Us</p>
-                            <a href="mailto:inquiries@hiringhub.com">inquiries@hiringhub.com</a>
+                            <a href="mailto:bharti@bhritisglobal.com">bharti@bhritisglobal.com</a>
                         </div>
                     </div>
                 </div>
@@ -1623,7 +1651,7 @@
                                             <p>mca’s awards</p>
                                         </div>
                                         <div class="title">
-                                            <h3><a href="about.html">Best Personnel Service<br>Provider.</a></h3>
+                                            <h3><a href="about.php">Best Personnel Service<br>Provider.</a></h3>
                                         </div>
                                         <div class="year">
                                             <h4>2025</h4>
@@ -1656,7 +1684,7 @@
                                             <p>Arup awards</p>
                                         </div>
                                         <div class="title">
-                                            <h3><a href="about.html">Best Staffing Firm to<br>Work For.</a></h3>
+                                            <h3><a href="about.php">Best Staffing Firm to<br>Work For.</a></h3>
                                         </div>
                                         <div class="year">
                                             <h4>2022</h4>
@@ -1972,7 +2000,7 @@
                 </div>
 
                 <div class="get-in-touch-style1__form">
-                    <form id="get-in-touch-form" name="get-in-touch_form" action="https://mehedi.asiandevelopers.com/2025/hiringhub/index-2.html" method="post">
+                    <form id="get-in-touch-form" name="get-in-touch_form" action="https://mehedi.asiandevelopers.com/2025/hiringhub/index.php" method="post">
                         <div class="row">
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="get-in-touch-style1__form-left">
@@ -2101,13 +2129,12 @@
                                 <div class="footer-widget-info-box">
                                     <div class="logo-box">
                                         <a href="index.php">
-                                            <img src="assets/images/resources/brihatis.png" alt="logo">
+                                            <img src="assets/images/resources/brihatis.png" alt="logo" style="margin-left:-50px">
                                         </a>
                                     </div>
                                     <div class="text-box">
                                         <p>
-                                            Have to be repudiated & annoyances<br>accepted. The wise man therefore
-                                            always<br>holds in these matters.
+                                            Committed to excellence, guided by experience, and focused on your success.
                                         </p>
                                     </div>
                                     <div class="social-links">
@@ -2207,7 +2234,7 @@
                                         <div class="footer-widget-links">
                                             <ul>
                                                 <li>
-                                                    <a href="about.html">
+                                                    <a href="about.php">
                                                         About Us
                                                         <i class="icon-arrow-angle-pointing-to-right arrow-hover">
                                                         </i>
@@ -2265,13 +2292,14 @@
                                     <h3>Submit your<br>CV for Customized Job<br>Pairings!...</h3>
                                 </div>
                                 <div class="upload-resume-form">
-                                    <form action="https://mehedi.asiandevelopers.com/2025/hiringhub/index.html" method="post">
+                                    <form action="https://mehedi.asiandevelopers.com/2025/hiringhub/index.php" method="post">
                                         <div class="form-group">
                                             <input type="email" name="email" placeholder="Drop files here..."
                                                 required="">
                                             <button class="submit btn-one">
                                                 <span class="txt">Browse</span>
                                             </button>
+                                            
                                         </div>
                                     </form>
                                 </div>
@@ -2324,8 +2352,8 @@
                 <i class="fa fa-times-circle"></i>
             </span>
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image">
-                    <img src="assets/images/resources/mobile-nav-logo.png" alt="" />
+                <a href="index.php" aria-label="logo image">
+                    <img src="assets/images/resources/brihatis-global.png" alt=""  style="max-width:150px"/>
                 </a>
             </div>
             <div class="mobile-nav-search-box">
@@ -2340,11 +2368,11 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="mailto:info@example.com">info@example.com</a>
+                    <a href="mailto:bharti@bhritisglobal.com">bharti@bhritisglobal.com</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:123456789">444 000 777 66</a>
+                    <a href="tel:+971 5029 80048">+971 5029 80048</a>
                 </li>
             </ul>
             <div class="mobile-nav__social">
