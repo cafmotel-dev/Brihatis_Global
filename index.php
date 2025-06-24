@@ -48,7 +48,8 @@
     <link rel="stylesheet" href="assets/css/responsive.css" />
 <style>
 .logo-box-style2 {
-  max-width: 250px;
+  max-width: 316px;
+  margin-left:0;
 }
 
 @media screen and (min-width: 425px) and (max-width: 767px) {
@@ -100,7 +101,7 @@
                         <div class="content-inner">
                             <div class="logo">
                                 <a href="index.php">
-                                    <img src="assets/images/resources/brihatis-global.png" alt="" />
+                                    <img src="assets/images/resources/logo-golden.png" alt="" />
                                 </a>
                             </div>
                             <div class="content-box">
@@ -207,7 +208,7 @@
                         </div>
                         <div class="logo-box-style2">
                             <a href="index.php">
-                                <img src="assets/images/resources/brihatis.png" alt="Awesome Logo" title="" >
+                                <img src="assets/images/resources/logo-golden.png" alt="Awesome Logo" title="" style="max-width:400px;height:117px">
                             </a>
                         </div>
                         <!--Start Main Menu Style1-->
@@ -216,7 +217,7 @@
                                 <div class="main-menu__wrapper-inner">
                                     <div class="sticky-logo-box-style1">
                                         <a href="index.php">
-                                            <img src="assets/images/resources/brihatis.png" alt="Awesome Logo" style="max-width:220px"
+                                            <img src="assets/images/resources/logo-golden.png" alt="Awesome Logo" style="max-width: 410px;"
                                                 title="">
                                         </a>
                                     </div>
@@ -1714,8 +1715,8 @@
                                         </div>
                                     </div>
                                     <div class="customer-info">
-                                        <h4>Eloise Juniper</h4>
-                                        <p>Vice President, Daily News</p>
+                                        <h4>Rohit Wanchoo</h4>
+                                        <p>Vice President</p>
                                     </div>
                                 </div>
                             </div>
@@ -1738,8 +1739,8 @@
                                         </div>
                                     </div>
                                     <div class="customer-info">
-                                        <h4>Nathan Felix</h4>
-                                        <p>Manager, Cypertech pvt ltd</p>
+                                        <h4>Eric Hancock</h4>
+                                        <p>Manager</p>
                                     </div>
                                 </div>
                             </div>
@@ -2069,7 +2070,9 @@
                                 <div class="footer-widget-info-box">
                                     <div class="logo-box">
                                         <a href="index.php">
-                                            <img src="assets/images/resources/brihatis.png" alt="logo" style="margin-left:-50px">
+                                            <img src="assets/images/resources/logo-golden.png" alt="logo" style="    margin-left: -77px;
+    max-width: 430px;
+">
                                         </a>
                                     </div>
                                     <div class="text-box">
@@ -2244,7 +2247,7 @@
             </span>
             <div class="logo-box">
                 <a href="index.php" aria-label="logo image">
-                    <img src="assets/images/resources/brihatis-global.png" alt=""  style="max-width:150px"/>
+                    <img src="assets/images/resources/logo-golden.png" alt=""  style="max-width:150px"/>
                 </a>
             </div>
             <div class="mobile-nav-search-box">
