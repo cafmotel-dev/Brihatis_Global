@@ -6,7 +6,7 @@
 .breadcrumb-style1 {
     position: relative;
     display: block;
-    margin-top: 45px;
+    /* margin-top: 45px; */
     z-index: 10;
 }
 

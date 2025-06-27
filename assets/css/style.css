@@ -535,7 +535,7 @@ select:focus {
     position: relative;
     display: block;
     border-bottom: 1px solid #e0e0e0;
-    padding-bottom: 30px;
+    /* padding-bottom: 30px; */
 }
 
 .xs-sidebar-group .content-inner .logo a {
@@ -1469,7 +1469,7 @@ select:focus {
     height: 15px;
     vertical-align: middle;
     background-color: transparent;
-    border: 1px solid var(--thm-border-color);
+    border: 1px solid black;
     cursor: pointer;
     border-radius: 5px;
     -webkit-transition: all 300ms ease;
@@ -8104,7 +8104,7 @@ Pricing Style1
 ***/
 .growth-rate-style1 {
     background-color: var(--thm-white);
-    padding: 120px 0px 167px;
+    padding: 50px 0px 68px;
 }
 
 .growth-rate-style1__content {

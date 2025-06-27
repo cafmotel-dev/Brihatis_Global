@@ -3999,7 +3999,6 @@
 
 
 
-
 /*--------------------------------------------------------------
 ///////////////////////////
 # Slider All Responsice Css
@@ -4018,9 +4017,10 @@
         padding: 0 0;
     }
 
-    .main-slider-style2 .main-slider-content {
-        margin-left: 0px;
+     .main-slider-style2 .main-slider-content {
+        margin-left: -80px
     }
+
 
 
 

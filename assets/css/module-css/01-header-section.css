@@ -1915,8 +1915,8 @@
 .logo-box-style2 {
     position: relative;
     display: block;
-    margin-left: 60px;
-    margin-right: 50px;
+    /* margin-left: 60px;
+    margin-right: 50px; */
 }
 
 .logo-box-style2 a {
