@@ -49,8 +49,7 @@
                         <div class="content-inner">
                             <div class="logo">
                                 <a href="index.php">
-                                    <img src="assets/images/resources/logo-golden.png" alt="" style="max-width: 450px;
-    margin-left: -50px;" />
+                                    <img src="assets/images/resources/logo-golden.png" alt="" style="max-width: 450px;margin-left: -50px;" />
                                 </a>
                             </div>
                             <div class="content-box">
@@ -159,7 +158,7 @@
                             </a>
                         </div>
                         <!--Start Main Menu Style1-->
-                        <nav class="main-menu main-menu-style1" style="margin-left:40px">
+                        <nav class="main-menu main-menu-style1" style="margin-left:100px">
                             <div class="main-menu__wrapper clearfix">
                                 <div class="main-menu__wrapper-inner">
                                     <div class="sticky-logo-box-style1">
@@ -196,7 +195,7 @@
                                                     </ul> -->
                                                 </li>
                                                 <li class="dropdown">
-                                                    <a href="solution.php">Solutions</a>
+                                                    <a href="#service">Solutions</a>
                                                    
                                                 </li>
                                                 <li class="dropdown">
@@ -230,12 +229,12 @@
                     <!--End Main Header Style2 Left -->
                     <!--Start Main Header Style2 Right -->
                     <div class="main-header-style2__right">
-                        <div class="box-search-style1">
+                        <!-- <div class="box-search-style1">
                             <a href="#" class="search-toggler">
                                 <p>Search</p>
                                 <span class="icon-search"></span>
                             </a>
-                        </div>
+                        </div> -->
                         <div class="hedaer-style1-request-call-box">
                             <div class="icon">
                                 <span class="icon-call-back" style="background-color: #cf6417;"></span>
@@ -272,14 +271,14 @@
                     <img src="assets/images/resources/logo-golden.png" alt=""  style="max-width:150px"/>
                 </a>
             </div>
-            <div class="mobile-nav-search-box">
+            <!-- <div class="mobile-nav-search-box">
                 <form class="search-form" action="#">
                     <input placeholder="Keyword" type="text" />
                     <button type="submit">
                         <i class="fa fa-search"></i>
                     </button>
                 </form>
-            </div>
+            </div> -->
             <div class="mobile-nav__container"></div>
             <ul class="mobile-nav__contact list-unstyled">
                 <li>

@@ -180,7 +180,7 @@
     <!--End Single Swiper Slide-->
 
     <!--Start Single Swiper Slide-->
-    <div class="swiper-slide">
+    <div class="swiper-slide" >
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -371,7 +371,7 @@
         </section>
         <!--End Welcome Style1-->
         <!--Start Service Style2-->
-        <section class="service-style2" style="padding:50px 0 50px">
+        <section class="service-style2" id="service" style="padding:50px 0 50px">
             <div class="container">
                 <div class="sec-title withtext text-center">
                     <div class="sub-title">
@@ -1300,7 +1300,7 @@
                         <h3>Can't Find<br>Your Answer?</h3>
                         <p>Send your questions<br>to our support team, we're here to help.</p>
                         <div class="btn-box">
-                            <a class="btn-one" href="faq.html">
+                            <a class="btn-one" href="faq.php">
                                 <span class="txt">Send Now</span>
                             </a>
                         </div>
@@ -1314,11 +1314,11 @@
                         <!--Start single accordion box-->
                         <li class="accordion accordion-block">
                             <div class="accord-btn active">
-                                <h4>What industries do you cater to?</h4>
+                                <h4>What types of jobs are available on this platform?</h4>
                             </div>
                             <div class="accord-content collapsed">
                                 <p>
-                                    We serve a wide range of industries including IT, Finance, Healthcare, Marketing, Logistics, and more—ensuring the right talent for every sector.
+                                    We offer a wide range of jobs across industries like IT, Finance, Healthcare, Marketing, Retail, and more — from entry-level to senior positions.
                                 </p>
                             </div>
                         </li>
@@ -1326,44 +1326,44 @@
 
                         <li class="accordion accordion-block">
                             <div class="accord-btn">
-                                <h4>What types of job roles are available?</h4>
+                                <h4>How do I apply for a job?</h4>
                             </div>
                             <div class="accord-content">
                                 <p>
-                                    From full-time and part-time roles to contract and freelance opportunities, we offer a variety of positions across all experience levels.
+                                    Simply register, complete your profile, and click “Apply” on any job listing you’re interested in. Your resume will be sent directly to the employer.
                                 </p>
                             </div>
                         </li>
 
                         <li class="accordion accordion-block">
                             <div class="accord-btn">
-                                <h4>Is there any registration fee for job seekers?</h4>
+                                <h4>Is there a fee to use the platform as a job seeker?</h4>
                             </div>
                             <div class="accord-content">
                                 <p>
-                                    No, our platform is completely free for job seekers. You can register, apply, and access resources without any charges.
+                                    No, our platform is completely free for job seekers. You can search and apply for jobs without any cost.
                                 </p>
                             </div>
                         </li>
 
                         <li class="accordion accordion-block">
                             <div class="accord-btn">
-                                <h4>How long do temporary or contract jobs usually last?</h4>
+                                <h4>Can I upload multiple resumes or update my profile later?</h4>
                             </div>
                             <div class="accord-content">
                                 <p>
-                                    Temporary assignments can range from a few days to several months, depending on the project and employer needs.
+                                    Yes, you can upload multiple resumes tailored to different roles and update your profile anytime to reflect your latest skills and experience.
                                 </p>
                             </div>
                         </li>
 
                         <li class="accordion accordion-block">
                             <div class="accord-btn">
-                                <h4>How does billing work for employers using your platform?</h4>
+                                <h4>How do employers find and contact candidates?</h4>
                             </div>
                             <div class="accord-content">
                                 <p>
-                                    Employers are billed based on selected plans, job credits, or subscription tiers. Custom billing is also available for enterprise clients.
+                                    Employers can search the talent pool using filters and contact candidates directly through our platform or schedule interviews.
                                 </p>
                             </div>
                         </li>
@@ -1380,6 +1380,7 @@
         </div>
     </div>
 </section>
+
 <!--End Faq Style1-->
 
 
@@ -1658,147 +1659,6 @@
         <!--End Blog Style2-->
 
 
-        <!--Start Get IN Touch Style1-->
-        <!-- <section class="get-in-touch-style1">
-            <div class="get-in-touch-style1__shape1">
-                <img src="assets/images/shapes/get-in-touch-style1__shape1.png" alt="shape">
-            </div>
-            <div class="container">
-                <div class="sec-title withtext text-center">
-                    <div class="sub-title">
-                        <h4>Get In Touch</h4>
-                    </div>
-                    <h2>Reach Out Drop us a Line Here</h2>
-                    <div class="text">
-                        <p>
-                            Long established fact that a reader will be distracted by the.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="get-in-touch-style1__form">
-                    <form id="get-in-touch-form" name="get-in-touch_form" action="https://mehedi.asiandevelopers.com/2025/hiringhub/index.php" method="post">
-                        <div class="row">
-                            <div class="col-xl-6 col-lg-6 col-md-6">
-                                <div class="get-in-touch-style1__form-left">
-                                    <div class="form-group">
-                                        <div class="input-box">
-                                            <input type="text" name="form_name" id="formName" placeholder="Your Name"
-                                                required="">
-                                        </div>
-                                    </div>
-                                    <div class="form-group">
-                                        <div class="input-box">
-                                            <input type="email" name="form_email" id="formEmail"
-                                                placeholder="Email address" required="">
-                                        </div>
-                                    </div>
-                                    <div class="form-group">
-                                        <div class="input-box">
-                                            <input type="text" name="form_phone" id="formPhone" placeholder="Phone">
-                                        </div>
-                                    </div>
-                                    <div class="form-group">
-                                        <div class="input-box">
-                                            <input type="text" name="form_subject" id="formSubject"
-                                                placeholder="Subject">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6">
-                                <div class="get-in-touch-style1__form-right">
-                                    <div class="form-group">
-                                        <div class="input-box">
-                                            <textarea name="form_message" id="formMessage"
-                                                placeholder="Write Your Message Here..." required=""></textarea>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="row">
-                            <div class="col-xl-12 text-center">
-                                <div class="button-box">
-                                    <div class="checked-box2">
-                                        <input type="checkbox" name="agree" id="iamagree">
-                                        <label for="iamagree">
-                                            <span></span>I agree the terms & Conditions
-                                        </label>
-                                    </div>
-                                    <button class="btn-one" type="submit" data-loading-text="Please wait...">
-                                        <span class="txt">
-                                            Send Message
-                                        </span>
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-
-                    </form>
-                </div>
-
-                <div class="employers-employee-phone-email-box">
-                    <div class="row">
-                        <div class="col-xl-4 col-lg-4 col-md-4">
-                            <div class="single-box">
-                                <div class="title text-center">
-                                    <h3>Address</h3>
-                                </div>
-                                <ul>
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-address"></span>
-                                        </div>
-                                        <a href="">Ifza Properties,Dubai,Silicon Oasis</a>
-                                    </li>
-                                   
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-4 col-lg-4 col-md-4">
-                            <div class="single-box single-box-style2">
-                                <div class="title title2 text-center">
-                                    <h3>Phone Number</h3>
-                                </div>
-                                <ul>
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-mobile"></span>
-                                        </div>
-                                        <a href="tel:+971 50 298 0048">+971 50 298 0048</a>
-                                    </li>
-                                    
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 col-md-4">
-                            <div class="single-box single-box-style2">
-                                <div class="title title2 text-center">
-                                    <h3>Mail </h3>
-                                </div>
-                                <ul>
-                                   
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-email"></span>
-                                        </div>
-                                        <a href="mailto: bharti@bhritisglobal.com"> bharti@bhritisglobal.com</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </section> -->
-        <!--End Get IN Touch Style1-->
-
-
-       
 <?php include 'footer.php'; ?>
 
     </div>

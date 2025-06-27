@@ -36,12 +36,8 @@
     <link rel="stylesheet" href="assets/css/module-css/02-banner-section.css" />
     <link rel="stylesheet" href="assets/css/module-css/03-about-section.css" />
     <link rel="stylesheet" href="assets/css/module-css/04-fact-counter-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/05-testimonial-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/06-partner-section.css" />
     <link rel="stylesheet" href="assets/css/module-css/07-footer-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/08-blog-section.css" />
     <link rel="stylesheet" href="assets/css/module-css/09-breadcrumb-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/10-contact.css" />
     <link rel="stylesheet" href="assets/css/module-css/11-services-section.css" />
     <!-- Template styles -->
     <link rel="stylesheet" href="assets/css/style.css" />
@@ -674,9 +670,6 @@
 
 
 <?php include 'footer.php'; ?>
-
-
-       
 
 
     </div>
