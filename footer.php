@@ -72,8 +72,8 @@
                                                 </li>
                                                
                                                 <li>
-                                                    <a href="testimonials.php">
-                                                        Testimonials
+                                                    <a href="contact.php">
+                                                      Contact us
                                                         <i class="icon-arrow-angle-pointing-to-right arrow-hover"></i>
                                                     </a>
                                                 </li>
