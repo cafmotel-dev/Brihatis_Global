@@ -1,37 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
 
 
 <!-- Mirrored from mehedi.asiandevelopers.com/2025/hiringhub/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Jun 2025 13:50:47 GMT -->
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Brihatis Global Edge Solution || Dedication Drives Us, Trust Defines Us</title>
-    <!-- Favicons Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
-   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/resources/title-logo.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/resources/title-logo.png" />
-    <meta name="description" content="HiringHub HTML 5 Template " />
-
-    <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
-   
-    <link rel="stylesheet" href="assets/vendors/fancybox/fancybox.min.css" />
-    <link rel="stylesheet" href="assets/vendors/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" href="assets/vendors/jarallax/jarallax.css" />
-    <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
-     <link rel="stylesheet" href="assets/vendors/vegas/vegas.min.css" />
-    <link rel="stylesheet" href="assets/vendors/thm-icons/style.css" />
-    <!-- Module css -->
-    <link rel="stylesheet" href="assets/css/module-css/01-header-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/02-banner-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/07-footer-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/09-breadcrumb-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/10-contact.css" />
-    <!-- Template styles -->
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="stylesheet" href="assets/css/responsive.css" />
-
-</head>
 
 <body class="body-bg-1">
 
@@ -277,6 +246,3 @@
 
 </body>
 
-
-<!-- Mirrored from mehedi.asiandevelopers.com/2025/hiringhub/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Jun 2025 13:50:51 GMT -->
-</html>

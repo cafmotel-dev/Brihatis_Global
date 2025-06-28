@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-
-
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -13,42 +8,8 @@
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/resources/title-logo.png" />
     <meta name="description" content="Dedication Drives Us, Trust Defines Us " />
 
-    <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
-    <link rel="stylesheet" href="assets/vendors/animate/custom-animate.css" />
-    <link rel="stylesheet" href="assets/vendors/aos/aos.css" />
-    <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/vendors/bootstrap-touchspin/jquery.bootstrap-touchspin.css" />
-    <link rel="stylesheet" href="assets/vendors/fancybox/fancybox.min.css" />
-    <link rel="stylesheet" href="assets/vendors/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" href="assets/vendors/jarallax/jarallax.css" />
-    <link rel="stylesheet" href="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.css" />
-    <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
-    <link rel="stylesheet" href="assets/vendors/nice-select/nice-select.css" />
-    <link rel="stylesheet" href="assets/vendors/odometer/odometer.min.css" />
-    <link rel="stylesheet" href="assets/vendors/owl-carousel/owl.carousel.min.css" />
-    <link rel="stylesheet" href="assets/vendors/owl-carousel/owl.theme.default.min.css" />
-    <link rel="stylesheet" href="assets/vendors/swiper/swiper.min.css" />
-    <link rel="stylesheet" href="assets/vendors/timepicker/timePicker.css" />
-    <link rel="stylesheet" href="assets/vendors/vegas/vegas.min.css" />
-    <link rel="stylesheet" href="assets/vendors/thm-icons/style.css" />
-    <!-- Module css -->
-    <link rel="stylesheet" href="assets/css/module-css/01-header-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/02-banner-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/03-about-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/04-fact-counter-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/05-testimonial-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/06-partner-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/07-footer-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/08-blog-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/09-breadcrumb-section.css" />
-    <link rel="stylesheet" href="assets/css/module-css/10-contact.css" />
-    <link rel="stylesheet" href="assets/css/module-css/11-services-section.css" />
-    <!-- Template styles -->
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="stylesheet" href="assets/css/responsive.css" />
 
 </head>
-
 <body class="body-bg-1">
     <div class="page-wrapper boxed_wrapper">
        
@@ -230,7 +191,7 @@
     </div>
     <!--End Single Swiper Slide-->
 
-</div>
+ </div>
 
 
                         <!-- <div class="main-slider-scrooling-content">
@@ -1063,21 +1024,21 @@
                         "autoplayTimeout": 10000,
                         "navText": ["<span class=\"left icon-left-arrow-angle-big-gross-symbol\"></span>","<span class=\"right icon-arrow-angle-pointing-to-right\"></span>"],
                        "responsive": {
-     "0": {
-        "items": 1
-    },
-    "500": {
-        "items": 2
-    },
-    "768": {
+         "0": {
+           "items": 1
+       },
+        "500": {
+         "items": 2
+     },
+       "768": {
+         "items": 3
+      },
+      "992": {
         "items": 3
-    },
-    "992": {
+       },
+      "1200": {
         "items": 3
-    },
-    "1200": {
-        "items": 3
-    }
+      }
      }
 
                         }'>
@@ -1659,52 +1620,12 @@
         <!--End Blog Style2-->
 
 
-<?php include 'footer.php'; ?>
+      <?php include 'footer.php'; ?>
 
     </div>
     <!-- /.page-wrapper -->
 
 
-
-
-    <script src="assets/vendors/jquery/jquery-3.6.0.min.js"></script>
-    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendors/aos/aos.js"></script>
-    <script src="assets/vendors/bootstrap-touchspin/jquery.bootstrap-touchspin.js"></script>
-    <script src="assets/vendors/countdown/jquery.countdown.min.js"></script>
-    <script src="assets/vendors/fancybox/jquery.fancybox.js"></script>
-    <script src="assets/vendors/isotope/isotope.js"></script>
-    <script src="assets/vendors/jarallax/jarallax.min.js"></script>
-    <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
-    <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
-    <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
-    <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
-    <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
-    <script src="assets/vendors/nice-select/jquery.nice-select.min.js"></script>
-    <script src="assets/vendors/odometer/odometer.min.js"></script>
-    <script src="assets/vendors/owl-carousel/owl.carousel.min.js"></script>
-    <script src="assets/vendors/swiper/swiper.min.js"></script>
-    <script src="assets/vendors/timepicker/timepicker.js"></script>
-    <script src="assets/vendors/vegas/vegas.min.js"></script>
-    <script src="assets/vendors/wow/wow.js"></script>
-    <!-- Gsap JS files -->
-    <script src="assets/vendors/gsap/gsap.js"></script>
-    <script src="assets/vendors/gsap/ScrollTrigger.js"></script>
-    <script src="assets/vendors/gsap/SplitText.js"></script>
-
-    <script src="assets/vendors/extra-scripts/extra-scripts.js"></script>
-    <script src="assets/vendors/marquee/marquee.min.js"></script>
-    <script src="assets/vendors/curved-text/jquery.circleType.js"></script>
-    <script src="assets/vendors/curved-text/jquery.lettering.min.js"></script>
-    <script src="assets/vendors/curved-text/jquery.fittext.js"></script>
-
-
-    <!-- Template js -->
-    <script src="assets/js/custom.js"></script>
-
-
 </body>
 
 
-
-</html>

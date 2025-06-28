@@ -1,3 +1,4 @@
+ <body class="body-bg-1">
  <!--Start footer Style1 -->
         <footer class="footer-style2" style="background-color: #158c7f;">
 
@@ -173,3 +174,27 @@
             <!--End Footer Bottom-->
         </footer>
         <!--End footer Style1-->
+
+     <script src="assets/vendors/jquery/jquery-3.6.0.min.js"></script>
+    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendors/bootstrap-touchspin/jquery.bootstrap-touchspin.js"></script>
+    <script src="assets/vendors/countdown/jquery.countdown.min.js"></script>
+    <script src="assets/vendors/fancybox/jquery.fancybox.js"></script>
+    <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
+    <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
+    <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
+    <script src="assets/vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="assets/vendors/swiper/swiper.min.js"></script>
+    <!-- Gsap JS files -->
+    <script src="assets/vendors/gsap/gsap.js"></script>
+    <script src="assets/vendors/gsap/ScrollTrigger.js"></script>
+    <script src="assets/vendors/gsap/SplitText.js"></script>
+    <script src="assets/vendors/curved-text/jquery.circleType.js"></script>
+    <script src="assets/vendors/curved-text/jquery.lettering.min.js"></script>
+    <script src="assets/vendors/curved-text/jquery.fittext.js"></script>
+
+
+    <!-- Template js -->
+    <script src="assets/js/custom.js"></script>
+ </body>
