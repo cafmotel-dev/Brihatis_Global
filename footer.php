@@ -1,6 +1,6 @@
  <body class="body-bg-1">
  <!--Start footer Style1 -->
-        <footer class="footer-style2" style="background-color: #158c7f;">
+        <footer class="footer-style2" style="background-color: #104819;">
 
             <!--Start Footer Main-->
             <div class="footer-main">
@@ -13,7 +13,7 @@
                                 <div class="footer-widget-info-box">
                                     <div class="logo-box">
                                         <a href="index.php">
-                                            <img src="assets/images/resources/logo-golden.png" alt="logo" style=" margin-left: -109px; max-width: 504px; height:161px;">
+                                            <img src="assets/images/resources/logo-transparent-png.png" alt="logo" style=" margin-left: -109px; max-width: 504px; height:161px;">
                                         </a>
                                     </div>
                                     <div class="text-box">
@@ -122,7 +122,7 @@
 
                         <!--Start Single Footer Widget-->
                         <div class="col-xl-4 col-lg-10 col-md-12 single-widget" >
-                            <div class="single-footer-widget single-footer-widget-upload-resume" style="background-color:#89dad0">
+                            <div class="single-footer-widget single-footer-widget-upload-resume" style="background-color:#d26c41">
                                 <div class="title">
                                     <h3>Submit your<br>CV for Customized Job<br>Pairings!...</h3>
                                 </div>

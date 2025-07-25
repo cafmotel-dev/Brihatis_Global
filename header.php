@@ -46,6 +46,9 @@
     max-width: 180px;
   }
 }
+.sec-title {
+         margin-top: 0 !important;
+}
     </style>  
   <!-- Preloader -->
     <div class="loader-wrap">
@@ -86,7 +89,7 @@
                         <div class="content-inner">
                             <div class="logo">
                                 <a href="index.php">
-                                    <img src="assets/images/resources/logo-golden.png" alt="" style="max-width: 450px;margin-left: -50px;" />
+                                    <img src="assets/images/resources/logo-transparent-png.png" alt="" style="max-width: 450px;margin-left: -50px;" />
                                 </a>
                             </div>
                             <div class="content-box">
@@ -184,14 +187,14 @@
                 <div class="main-header-style2__inner">
                     <!--Start Main Header Style2 Left -->
                     <div class="main-header-style2__left">
-                        <div class="side-content-button marleft0">
+                        <!-- <div class="side-content-button marleft0">
                             <a class="navSidebar-button" href="#">
                                 <img src="assets/images/icon/toogle-icon.png" alt="">
                             </a>
-                        </div>
+                        </div> -->
                         <div class="logo-box-style2">
                             <a href="index.php">
-                                <img src="assets/images/resources/logo-golden.png" alt="Awesome Logo" title="" style="max-width:400px;height:117px">
+                                <img src="assets/images/resources/logo-transparent-png.png" alt="Awesome Logo" title="" style="max-width:400px;height:117px">
                             </a>
                         </div>
                         <!--Start Main Menu Style1-->
@@ -200,7 +203,7 @@
                                 <div class="main-menu__wrapper-inner">
                                     <div class="sticky-logo-box-style1">
                                         <a href="index.php">
-                                            <img src="assets/images/resources/logo-golden.png" alt="Awesome Logo" style="max-width: 410px;"
+                                            <img src="assets/images/resources/logo-transparent-png.png" alt="Awesome Logo" style="max-width: 410px;"
                                                 title="">
                                         </a>
                                     </div>
@@ -305,7 +308,7 @@
             </span>
             <div class="logo-box">
                 <a href="index.php" aria-label="logo image">
-                    <img src="assets/images/resources/logo-golden.png" alt=""  style="max-width:150px"/>
+                    <img src="assets/images/resources/logo-transparent-png.png" alt=""  style="max-width:150px"/>
                 </a>
             </div>
             <!-- <div class="mobile-nav-search-box">
