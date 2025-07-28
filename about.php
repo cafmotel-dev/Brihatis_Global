@@ -78,7 +78,7 @@
                     <div class="col-xl-6">
                         <div class="about-style3__img">
                             <div class="inner">
-                                <img src="assets/images/about/about-v3-1.jpg" alt="image">
+                                <img src="assets/images/about/about-style1_1.jpg" alt="image">
                             </div>
                             <div class="overlay-box">
                                 <div class="overlay-box__shape1">

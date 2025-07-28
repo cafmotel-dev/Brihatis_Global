@@ -82,19 +82,19 @@
                                 <img src="assets/images/icon/corporate-office/corporate-office-icon-2.png" alt="icon">
                             </div>
                             <div class="title">
-                                <h3><a href="mailto:bharti@bhritisglobal.com">Quick Contact</a></h3>
+                                <h3><a href="mailto:team@brihatisglobal.com">Quick Contact</a></h3>
                                 <p>Call or email us for immediate help.</p>
                             </div>
                             <div class="btn-box">
-                                <a href="+971 50 298 0048">
+                                <a href="+15162122309">
                                     Get call back
                                     <span class="icon-arrow-angle-pointing-to-right"></span>
                                 </a>
                             </div>
                             <div class="text">
                                 <p>
-                                    <a href="tel:+971 50 298 0048">+971 50 298 0048</a><br>
-                                    <a href="mailto:bharti@bhritisglobal.com"> bharti@bhritisglobal.com</a>
+                                    <a href="tel:+15162122309">+15162122309</a><br>
+                                    <a href="mailto:team@brihatisglobal.com"> team@brihatisglobal.com</a>
                                 </p>
                             </div>
                         </div>
@@ -107,11 +107,11 @@
                                 <img src="assets/images/icon/corporate-office/corporate-office-icon-3.png" alt="icon">
                             </div>
                             <div class="title">
-                                <h3><a href="#">Office Hrs</a></h3>
+                                <h3><a href="">Office Hrs</a></h3>
                                 <p>Visit us during our office hours.</p>
                             </div>
                             <div class="btn-box">
-                                <a href="https://www.aplustopper.com/appointment-letter/">
+                                <a href="team@brihatisglobal.com">
                                     Appointment
                                     <span class="icon-arrow-angle-pointing-to-right"></span>
                                 </a>

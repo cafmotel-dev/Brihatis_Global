@@ -262,7 +262,7 @@
                             <div class="row">
                                 <div class="col-xl-6 col-lg-6 col-md-6">
                                     <div class="welcome-style1__img-single">
-                                        <img src="assets/images/resources/welcome-style1-img-1.jpg" alt="">
+                                        <img src="assets/images/resources/women.png" alt="" style="height:500px">
                                         <div class="overlay-btn">
                                             <a href="about.php">
                                                 Employers
@@ -699,7 +699,7 @@
 <div class="case-style1__single">
     <div class="img-box">
         <div class="inner">
-            <img src="assets/images/resources/case-v1-2.jpg" alt="image">
+            <img src="assets/images/resources/case-v1-7.jpg" alt="image">
             <div class="overlay-icon">
                 <a class="lightbox-image" data-fancybox="gallery" href="assets/images/resources/case-v1-2.jpg">
                     <i class="icon-zoom-in"></i>
@@ -1251,7 +1251,7 @@
             <div class="col-xl-6">
                 <div class="faq-style1__img">
                     <div class="inner">
-                        <img src="assets/images/resources/faq-v1-img1.jpg" alt="image">
+                        <img src="assets/images/services/service-v5-1.jpg" alt="image">
                     </div>
                     <div class="overlay-content">
                         <a href="#" class="icon">
@@ -1353,7 +1353,8 @@
 
                     <div class="col-xl-4">
                         <div class="testimonial-style2__img">
-                            <img src="assets/images/testimonial/testimonial-style2-img1.png" alt="image">
+                              <img src="assets/images/resources/women.png" alt="image">
+                            <!-- <img src="assets/images/testimonial/testimonial-style2-img1.png" alt="image"> -->
                             <div class="overlay-content text-center">
                                 <div class="rating-box">
                                     <ul>
@@ -1403,7 +1404,7 @@
 
                             <div class="testimonial-style2__single">
                                 <div class="img-box">
-                                    <img src="assets/images/testimonial/testimonial-v2-1.png" alt="image">
+                                    <img src="assets/images/testimonial/testimonial-v1-2.png" alt="image">
                                 </div>
                                 <div class="testimonial-style2__single-inner">
                                     <div class="content-box">
@@ -1427,7 +1428,7 @@
 
                             <div class="testimonial-style2__single">
                                 <div class="img-box">
-                                    <img src="assets/images/testimonial/testimonial-v2-2.png" alt="image">
+                                    <img src="assets/images/testimonial/testimonial-v2-1.png" alt="image">
                                 </div>
                                 <div class="testimonial-style2__single-inner">
                                     <div class="content-box">
@@ -1476,7 +1477,7 @@
                                 <p>Subscribe us to receive news & updates.</p>
                             </div>
                             <div class="blog-style2__form">
-                                <form action="https://mehedi.asiandevelopers.com/2025/hiringhub/index.html" method="post">
+                                <form action="/" method="post">
                                     <div class="check-employer-box1">
                                         <ul>
                                             <li>
@@ -1568,7 +1569,7 @@
                                 <div class="row">
                                     <div class="col-xl-6">
                                         <div class="blog-style2__single-img">
-                                            <img src="assets/images/blog/blog-v2-2.jpg" alt="image">
+                                            <img src="assets/images/blog/blog-v1-5.jpg" alt="image">
                                             <div class="category-box">
                                                 <p>Job Seekers</p>
                                             </div>
