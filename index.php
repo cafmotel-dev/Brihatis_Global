@@ -1347,7 +1347,7 @@
 
 
         <!--Start Testimonial Style2 -->
-        <section class="testimonial-style2" style="background-color: #158c7f;">
+        <section class="testimonial-style2" style="background-color: #158c7f;padding:50px 0 30px 0">
             <div class="container">
                 <div class="row">
 
@@ -1403,10 +1403,10 @@
                             </div>
 
                             <div class="testimonial-style2__single">
-                                <div class="img-box">
+                                <!-- <div class="img-box">
                                     <img src="assets/images/testimonial/testimonial-v1-2.png" alt="image">
-                                </div>
-                                <div class="testimonial-style2__single-inner">
+                                </div> -->
+                                <div class="testimonial-style2__single-inner"style="padding-left:0">
                                     <div class="content-box">
                                         <div class="icon">
                                             <i class="icon-quote"></i>
@@ -1414,23 +1414,22 @@
                                         <div class="title-box">
                                             <h3>Best Hiring Assistance</h3>
                                             <p>
-                                                I really appreciated the outstanding time, work & effort that
-                                                the entire staff put into finding me an excellent job.
+                                               Brihati closed multiple technical roles for Cafmotel, particularly in software engineering and product support with impressive speed and meticulous alignment. Every candidate presented was thoroughly matched to core role requirements. The hires have integrated seamlessly, showing strong ownership, adaptability, and delivering impact from day one. Brihati’s consistent quality and reliable partnership are truly appreciated.
                                             </p>
                                         </div>
                                     </div>
-                                    <div class="customer-info">
+                                    <div class="customer-info" style="padding-top:10px">
                                         <h4>Rohit Wanchoo</h4>
-                                        <p>Vice President</p>
+                                        <p>Cafmotel Technology</p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="testimonial-style2__single">
-                                <div class="img-box">
+                                <!-- <div class="img-box">
                                     <img src="assets/images/testimonial/testimonial-v2-1.png" alt="image">
-                                </div>
-                                <div class="testimonial-style2__single-inner">
+                                </div> -->
+                                <div class="testimonial-style2__single-inner" style="padding-left:0">
                                     <div class="content-box">
                                         <div class="icon">
                                             <i class="icon-quote"></i>
@@ -1438,14 +1437,14 @@
                                         <div class="title-box">
                                             <h3>Career-Altering Guidance</h3>
                                             <p>
-                                                Staffy is very accurate when comes to helping you find a job and
-                                                if that job finishes, They help you.
+                                             Brihati successfully closed multiple internal roles, especially in product sales and coordination, with fast turnaround times and well-matched profiles.
+All shortlisted candidates were relevant and pre-vetted, and those hired are already performing at high standards, showing strong ownership, adaptability, and early impact.
                                             </p>
                                         </div>
                                     </div>
-                                    <div class="customer-info">
-                                        <h4>Eric Hancock</h4>
-                                        <p>Manager</p>
+                                    <div class="customer-info" style="padding-top:10px">
+                                        <h4>Abhishek Vishwakarma</h4>
+                                        <p>Linkswitch Communication</p>
                                     </div>
                                 </div>
                             </div>
